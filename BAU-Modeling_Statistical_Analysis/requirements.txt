@@ -1,0 +1,14 @@
+joblib==1.5.3
+lightgbm==4.6.0
+lightgbmlss==0.6.1
+ngboost==0.5.10
+numpy==2.2.6
+optuna==4.8.0
+pandas==2.2.3
+pyarrow==24.0.0
+scikit-learn==1.7.2
+scipy==1.15.3
+statsmodels==0.14.6
+torch==2.9.1
+xgboost==3.2.0
+xgboostlss==0.5.0

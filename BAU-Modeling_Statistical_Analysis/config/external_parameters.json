@@ -1,0 +1,32 @@
+{
+  "nhanes": {
+    "col_sample": 0.8512013966206811,
+    "learning_rate": 0.030256889497013228,
+    "max_depth": 4,
+    "min_samples_leaf": 53,
+    "min_samples_split": 69,
+    "minibatch_frac": 0.5532506788409203,
+    "n_estimators": 348,
+    "natural_gradient": true
+  },
+  "charls": {
+    "col_sample": 0.6866160790964554,
+    "learning_rate": 0.026570671473410228,
+    "max_depth": 4,
+    "min_samples_leaf": 67,
+    "min_samples_split": 113,
+    "minibatch_frac": 0.837136986007128,
+    "n_estimators": 349,
+    "natural_gradient": true
+  },
+  "chns": {
+    "col_sample": 0.7362525977418454,
+    "learning_rate": 0.04955662668905514,
+    "max_depth": 3,
+    "min_samples_leaf": 51,
+    "min_samples_split": 117,
+    "minibatch_frac": 0.9054462808803493,
+    "n_estimators": 313,
+    "natural_gradient": true
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "nmr_gsea": [
+    {
+      "gene_set": "HALLMARK_COAGULATION",
+      "label": "Coagulation"
+    },
+    {
+      "gene_set": "HALLMARK_COMPLEMENT",
+      "label": "Complement"
+    },
+    {
+      "gene_set": "HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION",
+      "label": "Epithelial-mesenchymal transition"
+    },
+    {
+      "gene_set": "HALLMARK_IL6_JAK_STAT3_SIGNALING",
+      "label": "IL-6-JAK-STAT3 signalling"
+    },
+    {
+      "gene_set": "HALLMARK_INFLAMMATORY_RESPONSE",
+      "label": "Inflammatory response"
+    },
+    {
+      "gene_set": "REACTOME_AMYLOID_FIBER_FORMATION",
+      "label": "Amyloid fibre formation"
+    },
+    {
+      "gene_set": "REACTOME_ECM_PROTEOGLYCANS",
+      "label": "ECM proteoglycans"
+    },
+    {
+      "gene_set": "REACTOME_IMMUNOREGULATORY_INTERACTIONS_BETWEEN_A_LYMPHOID_AND_A_NON_LYMPHOID_CELL",
+      "label": "Immunoregulatory lymphoid interactions"
+    },
+    {
+      "gene_set": "REACTOME_INTERLEUKIN_10_SIGNALING",
+      "label": "Interleukin-10 signaling"
+    },
+    {
+      "gene_set": "REACTOME_NEUTROPHIL_DEGRANULATION",
+      "label": "Neutrophil degranulation"
+    },
+    {
+      "gene_set": "REACTOME_NR1H2_AND_NR1H3_MEDIATED_SIGNALING",
+      "label": "NR1H2/NR1H3-mediated signalling"
+    },
+    {
+      "gene_set": "REACTOME_PEPTIDE_LIGAND_BINDING_RECEPTORS",
+      "label": "Peptide ligand-binding receptors"
+    },
+    {
+      "gene_set": "REACTOME_PLASMA_LIPOPROTEIN_ASSEMBLY_REMODELING_AND_CLEARANCE",
+      "label": "Plasma lipoprotein assembly and remodelling"
+    },
+    {
+      "gene_set": "REACTOME_REGULATION_OF_INSULIN_LIKE_GROWTH_FACTOR_IGF_TRANSPORT_AND_UPTAKE_BY_INSULIN_LIKE_GROWTH_FACTOR_BINDING_PROTEINS_IGFBPS",
+      "label": "IGF transport and uptake by IGFBPs"
+    },
+    {
+      "gene_set": "REACTOME_SIGNALING_BY_SCF_KIT",
+      "label": "Signalling by SCF-KIT"
+    }
+  ],
+  "protein_gsea": [
+    {
+      "gene_set": "HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION",
+      "label": "Epithelial-mesenchymal transition"
+    },
+    {
+      "gene_set": "HALLMARK_FATTY_ACID_METABOLISM",
+      "label": "Fatty acid metabolism"
+    },
+    {
+      "gene_set": "HALLMARK_HEME_METABOLISM",
+      "label": "Heme metabolism"
+    },
+    {
+      "gene_set": "HALLMARK_IL6_JAK_STAT3_SIGNALING",
+      "label": "IL-6-JAK-STAT3 signalling"
+    },
+    {
+      "gene_set": "HALLMARK_INFLAMMATORY_RESPONSE",
+      "label": "Inflammatory response"
+    },
+    {
+      "gene_set": "HALLMARK_MTORC1_SIGNALING",
+      "label": "mTORC1 signalling"
+    },
+    {
+      "gene_set": "HALLMARK_MYOGENESIS",
+      "label": "Myogenesis"
+    },
+    {
+      "gene_set": "REACTOME_BIOLOGICAL_OXIDATIONS",
+      "label": "Biological oxidations"
+    },
+    {
+      "gene_set": "REACTOME_COLLAGEN_DEGRADATION",
+      "label": "Collagen degradation"
+    },
+    {
+      "gene_set": "REACTOME_DISEASES_ASSOCIATED_WITH_GLYCOSAMINOGLYCAN_METABOLISM",
+      "label": "Glycosaminoglycan metabolic disorders"
+    },
+    {
+      "gene_set": "REACTOME_ECM_PROTEOGLYCANS",
+      "label": "ECM proteoglycans"
+    },
+    {
+      "gene_set": "REACTOME_INTERLEUKIN_10_SIGNALING",
+      "label": "Interleukin-10 signaling"
+    },
+    {
+      "gene_set": "REACTOME_NEUTROPHIL_DEGRANULATION",
+      "label": "Neutrophil degranulation"
+    },
+    {
+      "gene_set": "REACTOME_PROTEIN_PROTEIN_INTERACTIONS_AT_SYNAPSES",
+      "label": "Synaptic protein-protein interactions"
+    },
+    {
+      "gene_set": "REACTOME_SPHINGOLIPID_METABOLISM",
+      "label": "Sphingolipid metabolism"
+    }
+  ],
+  "nmr_go": [
+    {
+      "gene_set": "GOBP_MYELOID_CELL_DEVELOPMENT",
+      "label": "Myeloid cell development"
+    },
+    {
+      "gene_set": "GOBP_PLASMA_LIPOPROTEIN_PARTICLE_CLEARANCE",
+      "label": "Plasma lipoprotein particle clearance"
+    },
+    {
+      "gene_set": "GOBP_POSITIVE_REGULATION_OF_LEUKOCYTE_MIGRATION",
+      "label": "Positive regulation of leukocyte migration"
+    },
+    {
+      "gene_set": "GOBP_REGULATION_OF_LYMPHOCYTE_MEDIATED_IMMUNITY",
+      "label": "Regulation of lymphocyte-mediated immunity"
+    },
+    {
+      "gene_set": "GOBP_REVERSE_CHOLESTEROL_TRANSPORT",
+      "label": "Reverse cholesterol transport"
+    },
+    {
+      "gene_set": "GOCC_AZUROPHIL_GRANULE_LUMEN",
+      "label": "Azurophil granule lumen"
+    },
+    {
+      "gene_set": "GOCC_PLATELET_ALPHA_GRANULE_LUMEN",
+      "label": "Platelet alpha-granule lumen"
+    },
+    {
+      "gene_set": "GOCC_PROTEIN_LIPID_COMPLEX",
+      "label": "Protein-lipid complex"
+    },
+    {
+      "gene_set": "GOMF_CARBOXYLIC_ESTER_HYDROLASE_ACTIVITY",
+      "label": "Carboxylic ester hydrolase activity"
+    },
+    {
+      "gene_set": "GOMF_CHEMOKINE_ACTIVITY",
+      "label": "Chemokine activity"
+    },
+    {
+      "gene_set": "GOMF_EXTRACELLULAR_MATRIX_BINDING",
+      "label": "Extracellular matrix binding"
+    }
+  ],
+  "protein_go": [
+    {
+      "gene_set": "GOBP_LEUKOCYTE_CHEMOTAXIS",
+      "label": "Leukocyte chemotaxis"
+    },
+    {
+      "gene_set": "GOBP_NEURON_MIGRATION",
+      "label": "Neuron migration"
+    },
+    {
+      "gene_set": "GOBP_POSITIVE_REGULATION_OF_LEUKOCYTE_MIGRATION",
+      "label": "Positive regulation of leukocyte migration"
+    },
+    {
+      "gene_set": "GOBP_SMALL_MOLECULE_CATABOLIC_PROCESS",
+      "label": "Small molecule catabolic process"
+    },
+    {
+      "gene_set": "GOBP_TRIGLYCERIDE_RICH_LIPOPROTEIN_PARTICLE_REMODELING",
+      "label": "Triglyceride-rich lipoprotein particle remodelling"
+    },
+    {
+      "gene_set": "GOCC_AZUROPHIL_GRANULE",
+      "label": "Azurophil granule"
+    },
+    {
+      "gene_set": "GOCC_EXTERNAL_SIDE_OF_PLASMA_MEMBRANE",
+      "label": "External side of plasma membrane"
+    },
+    {
+      "gene_set": "GOCC_HIGH_DENSITY_LIPOPROTEIN_PARTICLE",
+      "label": "High-density lipoprotein particle"
+    },
+    {
+      "gene_set": "GOCC_POSTSYNAPTIC_DENSITY_MEMBRANE",
+      "label": "Postsynaptic density membrane"
+    },
+    {
+      "gene_set": "GOMF_CHEMOKINE_ACTIVITY",
+      "label": "Chemokine activity"
+    },
+    {
+      "gene_set": "GOMF_GLYCOSAMINOGLYCAN_BINDING",
+      "label": "Glycosaminoglycan binding"
+    },
+    {
+      "gene_set": "GOMF_NAD_BINDING",
+      "label": "NAD binding"
+    }
+  ]
+}

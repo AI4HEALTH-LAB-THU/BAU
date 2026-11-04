@@ -1,0 +1,27 @@
+panel	analysis	feature	display_label	validation_label	nudge_x	nudge_y
+figure_3a	nmr_to_protein	APOM	APOM	TRUE	0	0
+figure_3a	nmr_to_protein	FGFBP1	FGFBP1	TRUE	0	0
+figure_3a	nmr_to_protein	PON3	PON3	TRUE	0	0
+figure_3a	nmr_to_protein	APOC1	APOC1	FALSE	0	0
+figure_3a	nmr_to_protein	IL1RN	IL1RN	TRUE	0	0
+figure_3a	nmr_to_protein	GDF15	GDF15	FALSE	0	0
+figure_3a	nmr_to_protein	VSIG4	VSIG4	TRUE	0	0
+figure_3a	nmr_to_protein	TNFRSF1A	TNFRSF1A	TRUE	0	0
+figure_3b	protein_to_nmr	Glucose	Glucose	TRUE	0	0
+figure_3b	protein_to_nmr	Glycoprotein Acetyls	Glycoprotein acetyls	TRUE	0	0
+figure_3b	protein_to_nmr	Triglycerides in Very Small VLDL	Triglycerides in very small VLDL	FALSE	0	0
+figure_3b	protein_to_nmr	Free Cholesterol in Large LDL	Free cholesterol in large LDL	TRUE	0	0
+figure_3b	protein_to_nmr	Albumin	Albumin	TRUE	0	0
+figure_3b	protein_to_nmr	Degree of Unsaturation	Degree of unsaturation	FALSE	0	0
+figure_3c	nmr_to_protein	APOM	APOM	FALSE	-0.02	-0.005
+figure_3c	nmr_to_protein	FGFBP1	FGFBP1	FALSE	0.01	0.005
+figure_3c	nmr_to_protein	PON3	PON3	FALSE	-0.015	0.005
+figure_3c	nmr_to_protein	REN	REN	FALSE	0	0.005
+figure_3c	nmr_to_protein	LDLR	LDLR	FALSE	0.015	0.005
+figure_3c	nmr_to_protein	CCN1	CCN1	FALSE	0.005	-0.005
+figure_3c	protein_to_nmr	Free Cholesterol in Large LDL	Free cholesterol in large LDL	FALSE	0.012	-0.004
+figure_3c	protein_to_nmr	Linoleic Acid	Linoleic acid	FALSE	0.012	0.004
+figure_3c	protein_to_nmr	Glucose	Glucose	FALSE	0.035	0.006
+figure_3c	protein_to_nmr	Albumin	Albumin	FALSE	-0.01	0.006
+figure_3c	protein_to_nmr	Total Fatty Acids	Total fatty acids	FALSE	0	-0.004
+figure_3c	protein_to_nmr	Creatinine	Creatinine	FALSE	0.018	0.002

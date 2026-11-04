@@ -1,0 +1,42 @@
+{
+  "seed": 20260717,
+  "outer_folds": 5,
+  "inner_folds": 5,
+  "calibration_fraction": 0.2,
+  "models": {
+    "ngboost": {"role": "primary", "trials": 15},
+    "lightgbmlss": {"role": "sensitivity", "trials": 30},
+    "xgboostlss": {"role": "sensitivity", "trials": 30}
+  },
+  "modalities": {
+    "nmr": {
+      "candidate": "data/ukb/modeling/nmr.feather",
+      "features": "config/features/nmr.txt",
+      "expected_rows": 272672,
+      "expected_features": 168,
+      "tuning_rows": {"ngboost": 25000, "lightgbmlss": 50000, "xgboostlss": 50000}
+    },
+    "protein": {
+      "candidate": "data/ukb/modeling/protein.feather",
+      "features": "config/features/protein.txt",
+      "expected_rows": 43867,
+      "expected_features": 204,
+      "tuning_rows": {"ngboost": 8000, "lightgbmlss": 15000, "xgboostlss": 15000}
+    },
+    "blood": {
+      "seed": 20260716,
+      "candidate": "data/ukb/modeling/routine_blood.feather",
+      "features": "config/features/blood.txt",
+      "expected_rows": 453163,
+      "expected_features": 59,
+      "tuning_rows": {"ngboost": 40000}
+    }
+  },
+  "calibration": {
+    "mean_crossfit_folds": 5,
+    "min_sex_n": 50,
+    "min_variance_factor": 0.0625,
+    "max_variance_factor": 16.0,
+    "phenotype_lowess_frac": 0.35
+  }
+}

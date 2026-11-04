@@ -1,0 +1,29 @@
+outcome_id	domain_order	domain	outcome_order	source_feature	label	transform	derivation
+crp	1	Inflammation and immunity	1	C-reactive protein	C-reactive protein	log	direct
+white_blood_cells	1	Inflammation and immunity	2	White blood cell (leukocyte) count	White blood cell count	log	direct
+neutrophils	1	Inflammation and immunity	3	Neutrophill count	Neutrophil count	log	direct
+monocytes	1	Inflammation and immunity	4	Monocyte count	Monocyte count	log	direct
+lymphocytes	1	Inflammation and immunity	5	Lymphocyte count	Lymphocyte count	log	direct
+neutrophil_lymphocyte_ratio	1	Inflammation and immunity	6	Neutrophill count | Lymphocyte count	Neutrophil-to-lymphocyte ratio	log	ratio_positive_denominator
+red_cell_distribution_width	2	Haematology and haemostasis	7	Red blood cell (erythrocyte) distribution width	Red cell distribution width	identity	direct
+haemoglobin	2	Haematology and haemostasis	8	Haemoglobin concentration	Haemoglobin	identity	direct
+platelets	2	Haematology and haemostasis	9	Platelet count	Platelet count	identity	direct
+mean_platelet_volume	2	Haematology and haemostasis	10	Mean platelet (thrombocyte) volume	Mean platelet volume	identity	direct
+cystatin_c	3	Kidney and liver	11	Cystatin C	Cystatin C	log	direct
+urea	3	Kidney and liver	12	Urea	Urea	log	direct
+urate	3	Kidney and liver	13	Urate	Urate	identity	direct
+alt	3	Kidney and liver	14	Alanine aminotransferase (ALT)	Alanine aminotransferase	log	direct
+alkaline_phosphatase	3	Kidney and liver	15	Alkaline phosphatase	Alkaline phosphatase	log	direct
+ggt	3	Kidney and liver	16	Gamma glutamyltransferase	Gamma-glutamyltransferase	log	direct
+hba1c	4	Metabolic and endocrine	17	Glycated haemoglobin (HbA1c)	Glycated haemoglobin	log	direct
+igf1	4	Metabolic and endocrine	18	IGF-1	IGF-1	identity	direct
+shbg	4	Metabolic and endocrine	19	SHBG	Sex hormone-binding globulin	log	direct
+vitamin_d	4	Metabolic and endocrine	20	Vitamin D	Vitamin D	identity	direct
+bmi	5	Body composition and vascular	21	Body mass index (BMI)	Body mass index	identity	direct
+waist_hip_ratio	5	Body composition and vascular	22	Waist-hip circumference ratio	Waist-to-hip ratio	identity	direct
+systolic_bp	5	Body composition and vascular	23	Systolic blood pressure, automated reading	Systolic blood pressure	identity	direct
+diastolic_bp	5	Body composition and vascular	24	Diastolic blood pressure, automated reading	Diastolic blood pressure	identity	direct
+pulse_rate	5	Body composition and vascular	25	Pulse rate, automated reading	Resting pulse rate	identity	direct
+handgrip	6	Physical function	26	Handgrip strength (average)	Handgrip strength	identity	direct
+fev1	6	Physical function	27	Forced expiratory volume in 1-second (FEV1)	Forced expiratory volume (FEV1)	identity	direct
+bone_mineral_density	6	Physical function	28	Heel bone mineral density (average)	Bone mineral density	identity	direct

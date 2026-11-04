@@ -1,0 +1,3809 @@
+{
+  "age_model_features": {
+    "columns": [
+      "section",
+      "Model feature",
+      "UK Biobank field ID",
+      "Olink protein ID"
+    ],
+    "records": [
+      {
+        "section": "Predictor shared across models",
+        "Model feature": "Sex",
+        "UK Biobank field ID": "31",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Cholesterol",
+        "UK Biobank field ID": "23400",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Cholesterol Minus HDL-C",
+        "UK Biobank field ID": "23401",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Remnant Cholesterol (Non-HDL, Non-LDL Cholesterol)",
+        "UK Biobank field ID": "23402",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "VLDL Cholesterol",
+        "UK Biobank field ID": "23403",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Clinical LDL Cholesterol",
+        "UK Biobank field ID": "23404",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "LDL Cholesterol",
+        "UK Biobank field ID": "23405",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "HDL Cholesterol",
+        "UK Biobank field ID": "23406",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Triglycerides",
+        "UK Biobank field ID": "23407",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Triglycerides in VLDL",
+        "UK Biobank field ID": "23408",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Triglycerides in LDL",
+        "UK Biobank field ID": "23409",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Triglycerides in HDL",
+        "UK Biobank field ID": "23410",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Phospholipids in Lipoprotein Particles",
+        "UK Biobank field ID": "23411",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Phospholipids in VLDL",
+        "UK Biobank field ID": "23412",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Phospholipids in LDL",
+        "UK Biobank field ID": "23413",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Phospholipids in HDL",
+        "UK Biobank field ID": "23414",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Esterified Cholesterol",
+        "UK Biobank field ID": "23415",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesteryl Esters in VLDL",
+        "UK Biobank field ID": "23416",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesteryl Esters in LDL",
+        "UK Biobank field ID": "23417",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesteryl Esters in HDL",
+        "UK Biobank field ID": "23418",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Free Cholesterol",
+        "UK Biobank field ID": "23419",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Free Cholesterol in VLDL",
+        "UK Biobank field ID": "23420",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Free Cholesterol in LDL",
+        "UK Biobank field ID": "23421",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Free Cholesterol in HDL",
+        "UK Biobank field ID": "23422",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Lipids in Lipoprotein Particles",
+        "UK Biobank field ID": "23423",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Lipids in VLDL",
+        "UK Biobank field ID": "23424",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Lipids in LDL",
+        "UK Biobank field ID": "23425",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Lipids in HDL",
+        "UK Biobank field ID": "23426",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Concentration of Lipoprotein Particles",
+        "UK Biobank field ID": "23427",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Concentration of VLDL Particles",
+        "UK Biobank field ID": "23428",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Concentration of LDL Particles",
+        "UK Biobank field ID": "23429",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Concentration of HDL Particles",
+        "UK Biobank field ID": "23430",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Average Diameter for VLDL Particles",
+        "UK Biobank field ID": "23431",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Average Diameter for LDL Particles",
+        "UK Biobank field ID": "23432",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Average Diameter for HDL Particles",
+        "UK Biobank field ID": "23433",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Phosphoglycerides",
+        "UK Biobank field ID": "23434",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Cholines",
+        "UK Biobank field ID": "23436",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Phosphatidylcholines",
+        "UK Biobank field ID": "23437",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Sphingomyelins",
+        "UK Biobank field ID": "23438",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Apolipoprotein B",
+        "UK Biobank field ID": "23439",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Apolipoprotein A1",
+        "UK Biobank field ID": "23440",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Fatty Acids",
+        "UK Biobank field ID": "23442",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Degree of Unsaturation",
+        "UK Biobank field ID": "23443",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Omega-3 Fatty Acids",
+        "UK Biobank field ID": "23444",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Omega-6 Fatty Acids",
+        "UK Biobank field ID": "23445",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Polyunsaturated Fatty Acids",
+        "UK Biobank field ID": "23446",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Monounsaturated Fatty Acids",
+        "UK Biobank field ID": "23447",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Saturated Fatty Acids",
+        "UK Biobank field ID": "23448",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Linoleic Acid",
+        "UK Biobank field ID": "23449",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Docosahexaenoic Acid",
+        "UK Biobank field ID": "23450",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Alanine",
+        "UK Biobank field ID": "23460",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Glutamine",
+        "UK Biobank field ID": "23461",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Glycine",
+        "UK Biobank field ID": "23462",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Histidine",
+        "UK Biobank field ID": "23463",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)",
+        "UK Biobank field ID": "23464",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Isoleucine",
+        "UK Biobank field ID": "23465",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Leucine",
+        "UK Biobank field ID": "23466",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Valine",
+        "UK Biobank field ID": "23467",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Phenylalanine",
+        "UK Biobank field ID": "23468",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Tyrosine",
+        "UK Biobank field ID": "23469",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Glucose",
+        "UK Biobank field ID": "23470",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Lactate",
+        "UK Biobank field ID": "23471",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Pyruvate",
+        "UK Biobank field ID": "23472",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Citrate",
+        "UK Biobank field ID": "23473",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "3-Hydroxybutyrate",
+        "UK Biobank field ID": "23474",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Acetate",
+        "UK Biobank field ID": "23475",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Acetoacetate",
+        "UK Biobank field ID": "23476",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Acetone",
+        "UK Biobank field ID": "23477",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Creatinine",
+        "UK Biobank field ID": "23478",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Albumin",
+        "UK Biobank field ID": "23479",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Glycoprotein Acetyls",
+        "UK Biobank field ID": "23480",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Concentration of Chylomicrons and Extremely Large VLDL Particles",
+        "UK Biobank field ID": "23481",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Lipids in Chylomicrons and Extremely Large VLDL",
+        "UK Biobank field ID": "23482",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Phospholipids in Chylomicrons and Extremely Large VLDL",
+        "UK Biobank field ID": "23483",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesterol in Chylomicrons and Extremely Large VLDL",
+        "UK Biobank field ID": "23484",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesteryl Esters in Chylomicrons and Extremely Large VLDL",
+        "UK Biobank field ID": "23485",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Free Cholesterol in Chylomicrons and Extremely Large VLDL",
+        "UK Biobank field ID": "23486",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Triglycerides in Chylomicrons and Extremely Large VLDL",
+        "UK Biobank field ID": "23487",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Concentration of Very Large VLDL Particles",
+        "UK Biobank field ID": "23488",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Lipids in Very Large VLDL",
+        "UK Biobank field ID": "23489",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Phospholipids in Very Large VLDL",
+        "UK Biobank field ID": "23490",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesterol in Very Large VLDL",
+        "UK Biobank field ID": "23491",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesteryl Esters in Very Large VLDL",
+        "UK Biobank field ID": "23492",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Free Cholesterol in Very Large VLDL",
+        "UK Biobank field ID": "23493",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Triglycerides in Very Large VLDL",
+        "UK Biobank field ID": "23494",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Concentration of Large VLDL Particles",
+        "UK Biobank field ID": "23495",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Lipids in Large VLDL",
+        "UK Biobank field ID": "23496",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Phospholipids in Large VLDL",
+        "UK Biobank field ID": "23497",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesterol in Large VLDL",
+        "UK Biobank field ID": "23498",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesteryl Esters in Large VLDL",
+        "UK Biobank field ID": "23499",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Free Cholesterol in Large VLDL",
+        "UK Biobank field ID": "23500",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Triglycerides in Large VLDL",
+        "UK Biobank field ID": "23501",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Concentration of Medium VLDL Particles",
+        "UK Biobank field ID": "23502",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Lipids in Medium VLDL",
+        "UK Biobank field ID": "23503",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Phospholipids in Medium VLDL",
+        "UK Biobank field ID": "23504",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesterol in Medium VLDL",
+        "UK Biobank field ID": "23505",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesteryl Esters in Medium VLDL",
+        "UK Biobank field ID": "23506",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Free Cholesterol in Medium VLDL",
+        "UK Biobank field ID": "23507",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Triglycerides in Medium VLDL",
+        "UK Biobank field ID": "23508",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Concentration of Small VLDL Particles",
+        "UK Biobank field ID": "23509",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Lipids in Small VLDL",
+        "UK Biobank field ID": "23510",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Phospholipids in Small VLDL",
+        "UK Biobank field ID": "23511",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesterol in Small VLDL",
+        "UK Biobank field ID": "23512",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesteryl Esters in Small VLDL",
+        "UK Biobank field ID": "23513",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Free Cholesterol in Small VLDL",
+        "UK Biobank field ID": "23514",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Triglycerides in Small VLDL",
+        "UK Biobank field ID": "23515",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Concentration of Very Small VLDL Particles",
+        "UK Biobank field ID": "23516",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Lipids in Very Small VLDL",
+        "UK Biobank field ID": "23517",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Phospholipids in Very Small VLDL",
+        "UK Biobank field ID": "23518",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesterol in Very Small VLDL",
+        "UK Biobank field ID": "23519",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesteryl Esters in Very Small VLDL",
+        "UK Biobank field ID": "23520",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Free Cholesterol in Very Small VLDL",
+        "UK Biobank field ID": "23521",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Triglycerides in Very Small VLDL",
+        "UK Biobank field ID": "23522",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Concentration of IDL Particles",
+        "UK Biobank field ID": "23523",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Lipids in IDL",
+        "UK Biobank field ID": "23524",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Phospholipids in IDL",
+        "UK Biobank field ID": "23525",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesterol in IDL",
+        "UK Biobank field ID": "23526",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesteryl Esters in IDL",
+        "UK Biobank field ID": "23527",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Free Cholesterol in IDL",
+        "UK Biobank field ID": "23528",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Triglycerides in IDL",
+        "UK Biobank field ID": "23529",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Concentration of Large LDL Particles",
+        "UK Biobank field ID": "23530",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Lipids in Large LDL",
+        "UK Biobank field ID": "23531",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Phospholipids in Large LDL",
+        "UK Biobank field ID": "23532",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesterol in Large LDL",
+        "UK Biobank field ID": "23533",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesteryl Esters in Large LDL",
+        "UK Biobank field ID": "23534",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Free Cholesterol in Large LDL",
+        "UK Biobank field ID": "23535",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Triglycerides in Large LDL",
+        "UK Biobank field ID": "23536",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Concentration of Medium LDL Particles",
+        "UK Biobank field ID": "23537",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Lipids in Medium LDL",
+        "UK Biobank field ID": "23538",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Phospholipids in Medium LDL",
+        "UK Biobank field ID": "23539",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesterol in Medium LDL",
+        "UK Biobank field ID": "23540",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesteryl Esters in Medium LDL",
+        "UK Biobank field ID": "23541",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Free Cholesterol in Medium LDL",
+        "UK Biobank field ID": "23542",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Triglycerides in Medium LDL",
+        "UK Biobank field ID": "23543",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Concentration of Small LDL Particles",
+        "UK Biobank field ID": "23544",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Lipids in Small LDL",
+        "UK Biobank field ID": "23545",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Phospholipids in Small LDL",
+        "UK Biobank field ID": "23546",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesterol in Small LDL",
+        "UK Biobank field ID": "23547",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesteryl Esters in Small LDL",
+        "UK Biobank field ID": "23548",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Free Cholesterol in Small LDL",
+        "UK Biobank field ID": "23549",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Triglycerides in Small LDL",
+        "UK Biobank field ID": "23550",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Concentration of Very Large HDL Particles",
+        "UK Biobank field ID": "23551",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Lipids in Very Large HDL",
+        "UK Biobank field ID": "23552",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Phospholipids in Very Large HDL",
+        "UK Biobank field ID": "23553",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesterol in Very Large HDL",
+        "UK Biobank field ID": "23554",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesteryl Esters in Very Large HDL",
+        "UK Biobank field ID": "23555",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Free Cholesterol in Very Large HDL",
+        "UK Biobank field ID": "23556",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Triglycerides in Very Large HDL",
+        "UK Biobank field ID": "23557",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Concentration of Large HDL Particles",
+        "UK Biobank field ID": "23558",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Lipids in Large HDL",
+        "UK Biobank field ID": "23559",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Phospholipids in Large HDL",
+        "UK Biobank field ID": "23560",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesterol in Large HDL",
+        "UK Biobank field ID": "23561",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesteryl Esters in Large HDL",
+        "UK Biobank field ID": "23562",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Free Cholesterol in Large HDL",
+        "UK Biobank field ID": "23563",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Triglycerides in Large HDL",
+        "UK Biobank field ID": "23564",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Concentration of Medium HDL Particles",
+        "UK Biobank field ID": "23565",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Lipids in Medium HDL",
+        "UK Biobank field ID": "23566",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Phospholipids in Medium HDL",
+        "UK Biobank field ID": "23567",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesterol in Medium HDL",
+        "UK Biobank field ID": "23568",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesteryl Esters in Medium HDL",
+        "UK Biobank field ID": "23569",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Free Cholesterol in Medium HDL",
+        "UK Biobank field ID": "23570",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Triglycerides in Medium HDL",
+        "UK Biobank field ID": "23571",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Concentration of Small HDL Particles",
+        "UK Biobank field ID": "23572",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Total Lipids in Small HDL",
+        "UK Biobank field ID": "23573",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Phospholipids in Small HDL",
+        "UK Biobank field ID": "23574",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesterol in Small HDL",
+        "UK Biobank field ID": "23575",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Cholesteryl Esters in Small HDL",
+        "UK Biobank field ID": "23576",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Free Cholesterol in Small HDL",
+        "UK Biobank field ID": "23577",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "NMR metabolomics model (168 measures)",
+        "Model feature": "Triglycerides in Small HDL",
+        "UK Biobank field ID": "23578",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "ACRV1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "22"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "ACTA2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "24"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "ADA",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "31"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "ADAMTS13",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "40"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "ADAMTS15",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "41"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "ADAMTS16",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "42"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "ADAMTSL5",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "47"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "ADGRG1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "56"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "AFP",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "66"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "AGER",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "68"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "AGRP",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "72"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "AHNAK2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "77"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "ANGPT2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "118"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "BAG3",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "232"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "BCAN",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "242"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "BGLAP",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "256"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "BOC",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "274"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "BSG",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "288"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "C19ORF12",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "299"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "C1QL2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "303"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CA14",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "326"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CA4",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "329"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CALB1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "342"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CCDC80",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "378"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CCL28",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "397"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CCN5",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "407"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CD1C",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "420"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CD248",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "429"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CD8A",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "471"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CD93",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "472"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CDCP1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "483"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CDH2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "487"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CDH3",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "490"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CDHR2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "495"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CDON",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "503"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CELSR2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "519"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CFHR5",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "545"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CHGB",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "558"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CHIT1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "560"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CHRDL1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "566"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CHRDL2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "567"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CKAP4",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "574"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CLEC14A",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "582"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CNTN5",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "623"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "COL15A1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "627"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "COL6A3",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "637"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "COL9A1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "638"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CR2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "668"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CRH",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "676"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CRTAC1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "686"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CRYBB2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "691"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CSPG5",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "707"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CST1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "709"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CST5",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "711"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CTHRC1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "718"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CTSF",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "728"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CTSV",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "733"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CXADR",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "738"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CXCL12",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "742"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CXCL14",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "744"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CXCL17",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "746"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CXCL9",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "751"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CYB5R2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "753"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "CYTL1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "756"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "DCBLD2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "768"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "DCN",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "772"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "DIPK2B",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "812"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "DKK3",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "814"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "DKKL1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "816"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "DLK1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "819"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "DMP1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "823"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "DPEP2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "847"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "DPT",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "852"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "EDA2R",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "883"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "EDDM3B",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "885"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "EDIL3",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "888"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "EFEMP1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "894"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "EFHD1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "895"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "EGFR",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "902"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "ELN",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "919"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "ENAH",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "922"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "ENG",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "924"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "ENO3",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "927"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "ENPP2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "931"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "ENPP5",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "932"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "ERBB4",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "957"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "FABP4",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "992"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "FAM3B",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1002"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "FAP",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1005"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "FAS",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1007"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "FASLG",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1008"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "FBLN2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1009"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "FCRL2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1022"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "FGF5",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1042"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "FSHB",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1086"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "FSTL1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1088"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "GAS6",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1121"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "GDF15",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1137"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "GFAP",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1141"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "GFRAL",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1147"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "GHRL",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1158"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "GIP",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1163"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "GIPC2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1164"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "GP2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1198"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "GZMB",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1240"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "HAVCR1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1247"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "HMCN2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1277"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "HSD11B1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1298"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "IGDCC4",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1339"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "IL17D",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1376"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "IL5RA",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1417"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "IL7R",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1422"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "INSL3",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1436"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "ITGAV",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1455"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "ITGB5",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1461"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "ITGBL1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1464"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "KIF22",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1498"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "KIT",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1507"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "KLK14",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1517"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "KLK3",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1519"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "KLK4",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1520"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "KLK7",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1522"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "KLK8",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1523"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "KLRF1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1528"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "L1CAM",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1539"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "LACRT",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1541"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "LECT2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1567"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "LEG1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1569"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "LHB",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1583"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "LMOD1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1599"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "LPO",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1605"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "LTBP2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1631"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "LYPD3",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1644"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "MAMDC4",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1658"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "MATN3",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1681"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "MEP1B",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1704"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "MEPE",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1705"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "MERTK",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1706"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "MFGE8",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1716"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "MLN",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1729"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "MMP12",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1733"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "MOG",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1745"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "MXRA8",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1784"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "NCAN",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1821"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "NEFL",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1840"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "NME3",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1871"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "NOTCH3",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1883"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "NPL",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1888"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "NPTX2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1895"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "NTF3",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1910"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "NTF4",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1911"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "NTPROBNP",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1912"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "ODAM",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1931"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "PAEP",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1960"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "PAMR1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "1972"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "PINLYP",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2054"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "PKD1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2056"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "PLAT",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2066"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "PODXL2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2096"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "POMC",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2100"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "PRELP",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2137"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "PRL",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2148"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "PRND",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2149"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "PROK1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2152"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "PSPN",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2180"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "PTGDS",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2184"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "PTN",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2190"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "PTPRM",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2200"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "PTPRN2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2201"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "PTPRR",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2202"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "PTPRZ1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2204"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "REN",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2270"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "RET",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2273"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "RGMA",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2279"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "RGMB",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2280"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "RLN2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2290"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "ROBO1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2305"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "RRM2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2316"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "SCARF2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2353"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "SCG2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2354"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "SCG3",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2355"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "SCGB1A1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2356"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "SDK2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2378"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "SEPTIN3",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2392"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "SOD2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2521"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "SORCS2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2524"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "SOST",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2527"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "SPINK1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2537"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "SPON2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2548"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "SPRR3",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2553"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "SRPX",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2560"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "SUSD2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2603"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "SUSD5",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2605"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "TFF1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2652"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "THBS2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2670"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "TNFRSF11B",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2720"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "TNFRSF13B",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2722"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "TNFSF13",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2737"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "TNXB",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2746"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "TSPAN1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2793"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "WFDC2",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2891"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "WIF1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2894"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "WNT9A",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2895"
+      },
+      {
+        "section": "Plasma proteomics model (204 proteins)",
+        "Model feature": "XCL1",
+        "UK Biobank field ID": "",
+        "Olink protein ID": "2897"
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "White blood cell (leukocyte) count",
+        "UK Biobank field ID": "30000",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Red blood cell (erythrocyte) count",
+        "UK Biobank field ID": "30010",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Haemoglobin concentration",
+        "UK Biobank field ID": "30020",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Haematocrit percentage",
+        "UK Biobank field ID": "30030",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Mean corpuscular volume",
+        "UK Biobank field ID": "30040",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Mean corpuscular haemoglobin",
+        "UK Biobank field ID": "30050",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Mean corpuscular haemoglobin concentration",
+        "UK Biobank field ID": "30060",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Red blood cell (erythrocyte) distribution width",
+        "UK Biobank field ID": "30070",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Platelet count",
+        "UK Biobank field ID": "30080",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Platelet crit",
+        "UK Biobank field ID": "30090",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Mean platelet (thrombocyte) volume",
+        "UK Biobank field ID": "30100",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Platelet distribution width",
+        "UK Biobank field ID": "30110",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Lymphocyte count",
+        "UK Biobank field ID": "30120",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Monocyte count",
+        "UK Biobank field ID": "30130",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Neutrophil count",
+        "UK Biobank field ID": "30140",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Eosinophil count",
+        "UK Biobank field ID": "30150",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Basophil count",
+        "UK Biobank field ID": "30160",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Nucleated red blood cell count",
+        "UK Biobank field ID": "30170",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Lymphocyte percentage",
+        "UK Biobank field ID": "30180",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Monocyte percentage",
+        "UK Biobank field ID": "30190",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Neutrophil percentage",
+        "UK Biobank field ID": "30200",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Eosinophil percentage",
+        "UK Biobank field ID": "30210",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Basophil percentage",
+        "UK Biobank field ID": "30220",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Nucleated red blood cell percentage",
+        "UK Biobank field ID": "30230",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Reticulocyte percentage",
+        "UK Biobank field ID": "30240",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Reticulocyte count",
+        "UK Biobank field ID": "30250",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Mean reticulocyte volume",
+        "UK Biobank field ID": "30260",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Mean sphered cell volume",
+        "UK Biobank field ID": "30270",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "Immature reticulocyte fraction",
+        "UK Biobank field ID": "30280",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "High light scatter reticulocyte percentage",
+        "UK Biobank field ID": "30290",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Haematology (31 measures)",
+        "Model feature": "High light scatter reticulocyte count",
+        "UK Biobank field ID": "30300",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "Albumin",
+        "UK Biobank field ID": "30600",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "Alkaline phosphatase",
+        "UK Biobank field ID": "30610",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "Alanine aminotransferase (ALT)",
+        "UK Biobank field ID": "30620",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "Apolipoprotein A",
+        "UK Biobank field ID": "30630",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "Apolipoprotein B",
+        "UK Biobank field ID": "30640",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "Aspartate aminotransferase (AST)",
+        "UK Biobank field ID": "30650",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "Direct bilirubin",
+        "UK Biobank field ID": "30660",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "Urea",
+        "UK Biobank field ID": "30670",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "Calcium",
+        "UK Biobank field ID": "30680",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "Cholesterol",
+        "UK Biobank field ID": "30690",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "Creatinine",
+        "UK Biobank field ID": "30700",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "C-reactive protein",
+        "UK Biobank field ID": "30710",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "Cystatin C",
+        "UK Biobank field ID": "30720",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "Gamma glutamyltransferase",
+        "UK Biobank field ID": "30730",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "Glucose",
+        "UK Biobank field ID": "30740",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "Glycated haemoglobin (HbA1c)",
+        "UK Biobank field ID": "30750",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "HDL cholesterol",
+        "UK Biobank field ID": "30760",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "IGF-1",
+        "UK Biobank field ID": "30770",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "LDL direct",
+        "UK Biobank field ID": "30780",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "Lipoprotein A",
+        "UK Biobank field ID": "30790",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "Phosphate",
+        "UK Biobank field ID": "30810",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "SHBG",
+        "UK Biobank field ID": "30830",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "Total bilirubin",
+        "UK Biobank field ID": "30840",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "Testosterone",
+        "UK Biobank field ID": "30850",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "Total protein",
+        "UK Biobank field ID": "30860",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "Triglycerides",
+        "UK Biobank field ID": "30870",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "Urate",
+        "UK Biobank field ID": "30880",
+        "Olink protein ID": ""
+      },
+      {
+        "section": "Serum biochemistry (28 measures)",
+        "Model feature": "Vitamin D",
+        "UK Biobank field ID": "30890",
+        "Olink protein ID": ""
+      }
+    ],
+    "notes": "Feature counts refer to the measured biomarkers. Sex was included separately in all three models as a binary indicator for male sex. The NMR panel comprised 168 absolute Nightingale measurements, and proteins are listed by their Olink assay labels. The routine blood panel comprised 31 haematological and 28 serum biochemical measurements. NMR, nuclear magnetic resonance."
+  },
+  "healthy_reference_conditions": {
+    "columns": [
+      "section",
+      "Disease system",
+      "Chronic condition",
+      "Disease definition"
+    ],
+    "records": [
+      {
+        "section": "",
+        "Disease system": "Cardiovascular",
+        "Chronic condition": "Angina pectoris",
+        "Disease definition": "I20"
+      },
+      {
+        "section": "",
+        "Disease system": "Cardiovascular",
+        "Chronic condition": "Myocardial infarction",
+        "Disease definition": "UK Biobank algorithmically defined myocardial infarction"
+      },
+      {
+        "section": "",
+        "Disease system": "Cardiovascular",
+        "Chronic condition": "Other ischaemic heart disease",
+        "Disease definition": "I24–I25"
+      },
+      {
+        "section": "",
+        "Disease system": "Cardiovascular",
+        "Chronic condition": "Stroke",
+        "Disease definition": "UK Biobank algorithmically defined stroke"
+      },
+      {
+        "section": "",
+        "Disease system": "Cardiovascular",
+        "Chronic condition": "Hypertension",
+        "Disease definition": "I10; I15"
+      },
+      {
+        "section": "",
+        "Disease system": "Cardiovascular",
+        "Chronic condition": "Hypertensive heart or renal disease",
+        "Disease definition": "I11–I13"
+      },
+      {
+        "section": "",
+        "Disease system": "Cardiovascular",
+        "Chronic condition": "Heart failure",
+        "Disease definition": "I50"
+      },
+      {
+        "section": "",
+        "Disease system": "Respiratory",
+        "Chronic condition": "Chronic obstructive pulmonary disease",
+        "Disease definition": "J40–J44; J47"
+      },
+      {
+        "section": "",
+        "Disease system": "Respiratory",
+        "Chronic condition": "Respiratory failure",
+        "Disease definition": "J96"
+      },
+      {
+        "section": "",
+        "Disease system": "Metabolic",
+        "Chronic condition": "Diabetes mellitus",
+        "Disease definition": "E10; E11; E13; E14"
+      },
+      {
+        "section": "",
+        "Disease system": "Renal",
+        "Chronic condition": "Nephrotic syndrome and related renal disorders",
+        "Disease definition": "N00–N07; N10–N13; N15"
+      },
+      {
+        "section": "",
+        "Disease system": "Renal",
+        "Chronic condition": "Renal failure",
+        "Disease definition": "N17–N19"
+      },
+      {
+        "section": "",
+        "Disease system": "Neurological",
+        "Chronic condition": "Parkinsonism",
+        "Disease definition": "G20–G21; G23; UK Biobank algorithmically defined Parkinson’s disease"
+      },
+      {
+        "section": "",
+        "Disease system": "Neurological",
+        "Chronic condition": "Dementia",
+        "Disease definition": "F00–F01; F03; G30; UK Biobank algorithmically defined Alzheimer’s disease and vascular dementia"
+      },
+      {
+        "section": "",
+        "Disease system": "Neurological",
+        "Chronic condition": "Multiple sclerosis or other demyelinating disease",
+        "Disease definition": "G35–G37"
+      },
+      {
+        "section": "",
+        "Disease system": "Psychiatric",
+        "Chronic condition": "Depressive episode",
+        "Disease definition": "F32–F33"
+      },
+      {
+        "section": "",
+        "Disease system": "Psychiatric",
+        "Chronic condition": "Schizophrenia or schizoaffective disorder",
+        "Disease definition": "F20–F23; F25; F29"
+      },
+      {
+        "section": "",
+        "Disease system": "Hepatic",
+        "Chronic condition": "Hepatic failure",
+        "Disease definition": "K72"
+      },
+      {
+        "section": "",
+        "Disease system": "Hepatic",
+        "Chronic condition": "Liver fibrosis or cirrhosis",
+        "Disease definition": "K74"
+      },
+      {
+        "section": "",
+        "Disease system": "Musculoskeletal and inflammatory",
+        "Chronic condition": "Rheumatoid arthritis",
+        "Disease definition": "M05–M06"
+      },
+      {
+        "section": "",
+        "Disease system": "Musculoskeletal and inflammatory",
+        "Chronic condition": "Other arthritis",
+        "Disease definition": "M07–M08; M11–M13"
+      },
+      {
+        "section": "",
+        "Disease system": "Musculoskeletal and inflammatory",
+        "Chronic condition": "Osteoporosis",
+        "Disease definition": "M80–M81"
+      },
+      {
+        "section": "",
+        "Disease system": "Neoplasms",
+        "Chronic condition": "Cancer, including carcinoma in situ",
+        "Disease definition": "C00–C26; C30–C34; C37–C41; C43–C58; C60–C86; C88; C90–C96; D00–D07; D09"
+      }
+    ],
+    "notes": "The table lists the conditions and corresponding definitions used to identify the healthy reference population. Participants were classified as healthy if they had no recorded history of any listed condition at baseline. This population was used for age-model development, calibration and estimation of the age- and sex-specific reference distributions for standardizing BAG and BAU. BAG, biological age gap; BAU, biological age uncertainty; ICD-10, International Statistical Classification of Diseases and Related Health Problems, Tenth Revision."
+  },
+  "covariate_definitions": {
+    "columns": [
+      "section",
+      "Covariate",
+      "UK Biobank",
+      "NHANES",
+      "CHARLS",
+      "CHNS"
+    ],
+    "records": [
+      {
+        "section": "Demographic and socioeconomic covariates",
+        "Covariate": "Chronological age",
+        "UK Biobank": "Age at assessment calculated from attendance date and recorded month and year of birth. Entered as a standardized linear term in prospective models and a four degree of freedom natural spline in molecular and physiological models.",
+        "NHANES": "Age at the baseline MEC examination, in years; continuous linear term.",
+        "CHARLS": "Age at the 2011 baseline, in years; continuous linear term.",
+        "CHNS": "Age in 2009 derived from birth year; continuous linear term."
+      },
+      {
+        "section": "Demographic and socioeconomic covariates",
+        "Covariate": "Sex",
+        "UK Biobank": "Female or male; binary term.",
+        "NHANES": "Female or male; categorical term.",
+        "CHARLS": "Female or male; categorical term.",
+        "CHNS": "Female or male; categorical term."
+      },
+      {
+        "section": "Demographic and socioeconomic covariates",
+        "Covariate": "Race or ethnicity",
+        "UK Biobank": "Self-reported White, Mixed, Asian, Black, Chinese, Other or Unknown; included in molecular and physiological models.",
+        "NHANES": "Mexican American, other Hispanic, non-Hispanic White, non-Hispanic Black, non-Hispanic Asian and cycle-specific other or multiracial categories.",
+        "CHARLS": "—",
+        "CHNS": "Han or other ethnic group; categorical term."
+      },
+      {
+        "section": "Demographic and socioeconomic covariates",
+        "Covariate": "Education",
+        "UK Biobank": "College or university degree, other qualifications, no qualifications, or unknown.",
+        "NHANES": "Less than ninth grade, ninth to eleventh grade, high-school graduate or GED, some college or associate degree, college graduate or higher, refused or unknown.",
+        "CHARLS": "No formal or incomplete primary education, elementary school, middle school, secondary education or higher, or missing.",
+        "CHNS": "None, primary, middle, or secondary education or higher."
+      },
+      {
+        "section": "Demographic and socioeconomic covariates",
+        "Covariate": "Household income",
+        "UK Biobank": "Annual household income below £18,000, £18,000–51,999, at least £52,000, or unknown.",
+        "NHANES": "Family income-to-poverty ratio below 1.3, 1.3 to below 3.5, at least 3.5, or missing.",
+        "CHARLS": "—",
+        "CHNS": "—"
+      },
+      {
+        "section": "Demographic and socioeconomic covariates",
+        "Covariate": "Employment",
+        "UK Biobank": "In paid employment, retired, unemployed, other employment status, or unknown.",
+        "NHANES": "—",
+        "CHARLS": "—",
+        "CHNS": "Working or not working; categorical term."
+      },
+      {
+        "section": "Demographic and socioeconomic covariates",
+        "Covariate": "Citizenship",
+        "UK Biobank": "—",
+        "NHANES": "United States citizen, non-citizen or unknown.",
+        "CHARLS": "—",
+        "CHNS": "—"
+      },
+      {
+        "section": "Demographic and socioeconomic covariates",
+        "Covariate": "Residence",
+        "UK Biobank": "—",
+        "NHANES": "—",
+        "CHARLS": "—",
+        "CHNS": "Urban or rural residence."
+      },
+      {
+        "section": "Demographic and socioeconomic covariates",
+        "Covariate": "Health insurance",
+        "UK Biobank": "—",
+        "NHANES": "—",
+        "CHARLS": "—",
+        "CHNS": "Covered or not covered by medical insurance."
+      },
+      {
+        "section": "Behavioural covariates",
+        "Covariate": "Smoking",
+        "UK Biobank": "Current smoker, yes or no.",
+        "NHANES": "Current, former, never or unknown.",
+        "CHARLS": "Ever, never or unknown.",
+        "CHNS": "Ever or never."
+      },
+      {
+        "section": "Behavioural covariates",
+        "Covariate": "Alcohol intake",
+        "UK Biobank": "Daily or almost daily intake, yes or no.",
+        "NHANES": "None, up to one drink per day, more than one drink per day or unknown.",
+        "CHARLS": "Ever use, yes, no or unknown.",
+        "CHNS": "Frequent, monthly, rare or never, or unknown."
+      },
+      {
+        "section": "Behavioural covariates",
+        "Covariate": "Physical activity",
+        "UK Biobank": "Self-reported daily minutes of moderate-to-vigorous physical activity. Entered as a standardized linear term in Cox models and as log(1 + minutes per day) in BAU determinant models. Subgroups used below 30 and at least 30 min per day.",
+        "NHANES": "—",
+        "CHARLS": "—",
+        "CHNS": "—"
+      },
+      {
+        "section": "Baseline health covariates",
+        "Covariate": "Baseline health or disease evidence",
+        "UK Biobank": "History of 23 conditions. Used as disease-free or any history in subgroup and healthy-reference analyses, and as a grouped count in extended adjustment.",
+        "NHANES": "Healthy when hypertension, diabetes, kidney disease, heart failure, coronary heart disease, angina, myocardial infarction, stroke, liver disease and cancer were all recorded absent; disease when any was present; unknown otherwise. Borderline diabetes was classified as disease.",
+        "CHARLS": "Healthy when hypertension, dyslipidaemia, diabetes, cancer, lung disease, liver disease, heart problems, stroke, kidney disease and asthma were all recorded absent; disease when any was present; unknown otherwise.",
+        "CHNS": "Disease when hypertension, diabetes, myocardial infarction, stroke or asthma was recorded; not confirmed otherwise."
+      },
+      {
+        "section": "Study design and technical covariates",
+        "Covariate": "Assessment centre or survey cycle",
+        "UK Biobank": "Baseline Cox association models were stratified by centre and used centre-clustered standard errors. Longitudinal Cox models used baseline-centre strata and model-based standard errors. Molecular, physiological and disagreement models included centre indicators.",
+        "NHANES": "Ten two-year survey cycles from 1999–2000 to 2017–2018; baseline-hazard strata.",
+        "CHARLS": "—",
+        "CHNS": "—"
+      },
+      {
+        "section": "Study design and technical covariates",
+        "Covariate": "Assessment timing",
+        "UK Biobank": "Sampling date was standardized in molecular and physiological models and entered as days since 1 January 2006 in BAU determinant models. Season was represented by annual sine and cosine terms.",
+        "NHANES": "—",
+        "CHARLS": "—",
+        "CHNS": "—"
+      },
+      {
+        "section": "Study design and technical covariates",
+        "Covariate": "Assay missingness",
+        "UK Biobank": "Proportion of measurements missing before imputation in the relevant age-model input panel or outcome assay. Organ-age disagreement models also included missingness across the combined organ panels.",
+        "NHANES": "—",
+        "CHARLS": "—",
+        "CHNS": "—"
+      }
+    ],
+    "notes": "UK Biobank entries cover outcome, molecular, physiological and BAU determinant analyses, with covariates included as specified for each analysis in the Methods. External-cohort entries describe mortality models. Unknown or missing responses were retained as categories where listed. Longitudinal UK Biobank analyses required reported education and employment, while retaining an unknown household-income category. Missing values for CHNS ethnicity, residence, employment, education, health insurance and smoking were replaced with the most frequent category. NHANES mortality analyses were unweighted. BAU, biological age uncertainty; CHARLS, China Health and Retirement Longitudinal Study; CHNS, China Health and Nutrition Survey; GED, General Educational Development; MEC, mobile examination centre; NHANES, National Health and Nutrition Examination Survey."
+  },
+  "additional_covariates": {
+    "columns": [
+      "section",
+      "Covariate group",
+      "Definition and coding",
+      "Analysis use"
+    ],
+    "records": [
+      {
+        "section": "",
+        "Covariate group": "Diet",
+        "Definition and coding": "Daily healthy food and frequent processed meat, red meat and salt intake as four binary indicators.",
+        "Analysis use": "BAU determinant models and extended prospective adjustment"
+      },
+      {
+        "section": "",
+        "Covariate group": "Medication use",
+        "Definition and coding": "Cholesterol-lowering medication, blood pressure-lowering medication and insulin use as separate binary indicators.",
+        "Analysis use": "BAU determinant models"
+      },
+      {
+        "section": "",
+        "Covariate group": "Medication use",
+        "Definition and coding": "Cholesterol-lowering medication as no, yes or unknown; blood pressure-lowering medication and insulin use as binary indicators.",
+        "Analysis use": "Extended prospective adjustment"
+      },
+      {
+        "section": "",
+        "Covariate group": "Medication use",
+        "Definition and coding": "Blood pressure-lowering medication as a binary indicator.",
+        "Analysis use": "Clinical reference models for incremental discrimination"
+      },
+      {
+        "section": "",
+        "Covariate group": "Family history",
+        "Definition and coding": "Family history of cardiovascular disease and diabetes as separate binary indicators.",
+        "Analysis use": "Extended prospective adjustment"
+      },
+      {
+        "section": "",
+        "Covariate group": "Hypertension and diabetes",
+        "Definition and coding": "Baseline histories as separate binary indicators.",
+        "Analysis use": "BAU determinant models; diabetes was also included in the clinical reference model"
+      },
+      {
+        "section": "",
+        "Covariate group": "Adiposity",
+        "Definition and coding": "Body mass index in kg m⁻² and waist-to-hip ratio as continuous measures.",
+        "Analysis use": "BAU determinant models; body mass index was also used in extended adjustment and subgroup analyses"
+      },
+      {
+        "section": "",
+        "Covariate group": "Blood pressure",
+        "Definition and coding": "Systolic and diastolic blood pressure in mm Hg as continuous measures.",
+        "Analysis use": "BAU determinant models; systolic pressure was also used in extended adjustment and the clinical reference model"
+      },
+      {
+        "section": "",
+        "Covariate group": "Baseline 23 conditions",
+        "Definition and coding": "Number of conditions present at baseline, grouped as 0, 1 or at least 2.",
+        "Analysis use": "Extended prospective adjustment"
+      },
+      {
+        "section": "",
+        "Covariate group": "Baseline major-disease domain count",
+        "Definition and coding": "Number of the seven healthspan disease domains present at baseline. Eligible multimorbidity risk sets contained 0 or 1 domain.",
+        "Analysis use": "Additional baseline-hazard strata in baseline multimorbidity Cox models"
+      },
+      {
+        "section": "",
+        "Covariate group": "Clinical lipid measures",
+        "Definition and coding": "Total cholesterol and HDL cholesterol in mmol l⁻¹ as continuous measures.",
+        "Analysis use": "Clinical reference models for incremental discrimination"
+      },
+      {
+        "section": "",
+        "Covariate group": "Subgroup categories",
+        "Definition and coding": "Age 40–49, 50–59 or at least 60 years; body mass index below 25, 25 to below 30 or at least 30 kg m⁻²; physical activity below 30 or at least 30 min per day; baseline disease-free status or any of the 23 conditions.",
+        "Analysis use": "Subgroup analyses"
+      }
+    ],
+    "notes": "BAU determinant models assessed the variation in BAU explained by measured factors. Clinical reference models were used to assess the incremental discrimination provided by BAG and BAU. Missing medication responses were retained as missing values in BAU determinant models and handled directly by LightGBM. BAU, biological age uncertainty; BMI, body mass index; HDL, high-density lipoprotein."
+  },
+  "health_outcomes": {
+    "columns": [
+      "section",
+      "Outcome or disease domain",
+      "Definition",
+      "ICD-10 codes or UK Biobank outcome",
+      "Role and ascertainment"
+    ],
+    "records": [
+      {
+        "section": "Primary outcomes",
+        "Outcome or disease domain": "All-cause mortality",
+        "Definition": "Death from any cause",
+        "ICD-10 codes or UK Biobank outcome": "—",
+        "Role and ascertainment": "Primary outcome. Death dates came from the national death registry."
+      },
+      {
+        "section": "Primary outcomes",
+        "Outcome or disease domain": "Loss of healthspan",
+        "Definition": "First occurrence of an H7 disease domain or all-cause death",
+        "ICD-10 codes or UK Biobank outcome": "See H7 domains below",
+        "Role and ascertainment": "Primary outcome. Participants with any H7 domain at or before baseline were excluded; death was part of the endpoint."
+      },
+      {
+        "section": "Primary outcomes",
+        "Outcome or disease domain": "Major disease multimorbidity",
+        "Definition": "First occurrence of a second distinct H7 disease domain",
+        "ICD-10 codes or UK Biobank outcome": "See H7 domains below",
+        "Role and ascertainment": "Primary outcome. Participants with zero or one H7 domain at baseline entered the risk set. Death before the second domain was censored in Cox models and treated as a competing event for cumulative incidence."
+      },
+      {
+        "section": "H7 disease domains",
+        "Outcome or disease domain": "Myocardial infarction",
+        "Definition": "Myocardial infarction",
+        "ICD-10 codes or UK Biobank outcome": "UK Biobank algorithmically defined myocardial infarction",
+        "Role and ascertainment": "H7 component"
+      },
+      {
+        "section": "H7 disease domains",
+        "Outcome or disease domain": "Heart failure",
+        "Definition": "Heart failure",
+        "ICD-10 codes or UK Biobank outcome": "I50",
+        "Role and ascertainment": "H7 component"
+      },
+      {
+        "section": "H7 disease domains",
+        "Outcome or disease domain": "Stroke",
+        "Definition": "Haemorrhagic, ischaemic or unspecified stroke",
+        "ICD-10 codes or UK Biobank outcome": "UK Biobank algorithmically defined stroke",
+        "Role and ascertainment": "H7 component and individual incident outcome"
+      },
+      {
+        "section": "H7 disease domains",
+        "Outcome or disease domain": "Chronic obstructive pulmonary disease",
+        "Definition": "Chronic bronchitis, emphysema, other chronic obstructive pulmonary disease or bronchiectasis",
+        "ICD-10 codes or UK Biobank outcome": "J40–J44; J47",
+        "Role and ascertainment": "H7 component and individual incident outcome"
+      },
+      {
+        "section": "H7 disease domains",
+        "Outcome or disease domain": "Diabetes mellitus",
+        "Definition": "Type 1, type 2, other specified or unspecified diabetes mellitus",
+        "ICD-10 codes or UK Biobank outcome": "E10; E11; E13; E14",
+        "Role and ascertainment": "H7 component and individual incident outcome"
+      },
+      {
+        "section": "H7 disease domains",
+        "Outcome or disease domain": "Dementia",
+        "Definition": "Alzheimer's disease, vascular dementia or unspecified dementia",
+        "ICD-10 codes or UK Biobank outcome": "F00–F01; F03; G30; UK Biobank algorithmically defined Alzheimer's disease and vascular dementia",
+        "Role and ascertainment": "H7 component and individual incident outcome"
+      },
+      {
+        "section": "H7 disease domains",
+        "Outcome or disease domain": "Malignant cancer",
+        "Definition": "Malignant neoplasm excluding non-melanoma skin cancer and carcinoma in situ",
+        "ICD-10 codes or UK Biobank outcome": "UK Biobank-derived malignant neoplasm outcomes",
+        "Role and ascertainment": "H7 component"
+      },
+      {
+        "section": "Additional individual incident outcomes",
+        "Outcome or disease domain": "Coronary heart disease",
+        "Definition": "Angina pectoris, myocardial infarction, other acute ischaemic heart disease or chronic ischaemic heart disease",
+        "ICD-10 codes or UK Biobank outcome": "I20; I24–I25; UK Biobank algorithmically defined myocardial infarction",
+        "Role and ascertainment": "Individual incident outcome"
+      },
+      {
+        "section": "Additional individual incident outcomes",
+        "Outcome or disease domain": "Liver disease",
+        "Definition": "Viral hepatitis, alcoholic and toxic liver disease, hepatic failure, chronic hepatitis, fibrosis, cirrhosis and other liver disease",
+        "ICD-10 codes or UK Biobank outcome": "B15–B19; K70–K76",
+        "Role and ascertainment": "Individual incident outcome"
+      },
+      {
+        "section": "Additional individual incident outcomes",
+        "Outcome or disease domain": "Renal failure",
+        "Definition": "Acute, chronic or unspecified renal failure",
+        "ICD-10 codes or UK Biobank outcome": "N17–N19",
+        "Role and ascertainment": "Individual incident outcome"
+      },
+      {
+        "section": "Additional individual incident outcomes",
+        "Outcome or disease domain": "Digestive system cancer",
+        "Definition": "Malignant neoplasm of the digestive organs",
+        "ICD-10 codes or UK Biobank outcome": "C15–C26",
+        "Role and ascertainment": "Individual incident outcome"
+      },
+      {
+        "section": "Additional individual incident outcomes",
+        "Outcome or disease domain": "Respiratory system cancer",
+        "Definition": "Malignant neoplasm of the respiratory system or intrathoracic organs",
+        "ICD-10 codes or UK Biobank outcome": "C30–C34; C37–C39",
+        "Role and ascertainment": "Individual incident outcome"
+      }
+    ],
+    "notes": "Disease outcomes were identified from UK Biobank-derived first-occurrence records. Follow-up began at baseline or repeat assessment and ended at the target event, loss to follow-up, death or 31 December 2022. Incident outcome analyses included participants free of the corresponding outcome at the start of follow-up. Death was included in loss of healthspan and treated as a censoring event in Cox models of multimorbidity and individual diseases. H7 denotes the seven major disease domains listed above. Each domain counted once, and two domains first recorded on the same date defined multimorbidity on that date. ICD-10, International Classification of Diseases, Tenth Revision."
+  },
+  "external_feature_harmonisation": {
+    "columns": [
+      "section",
+      "UK Biobank feature name",
+      "External source variable",
+      "Source unit",
+      "Model unit",
+      "Conversion"
+    ],
+    "records": [
+      {
+        "section": "NHANES (24 measurements)",
+        "UK Biobank feature name": "Albumin",
+        "External source variable": "LBXSAL",
+        "Source unit": "g dl⁻¹",
+        "Model unit": "g l⁻¹",
+        "Conversion": "×10"
+      },
+      {
+        "section": "NHANES (24 measurements)",
+        "UK Biobank feature name": "Alanine aminotransferase (ALT)",
+        "External source variable": "LBXSATSI",
+        "Source unit": "U l⁻¹",
+        "Model unit": "U l⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "NHANES (24 measurements)",
+        "UK Biobank feature name": "Aspartate aminotransferase (AST)",
+        "External source variable": "LBXSASSI",
+        "Source unit": "U l⁻¹",
+        "Model unit": "U l⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "NHANES (24 measurements)",
+        "UK Biobank feature name": "Alkaline phosphatase",
+        "External source variable": "LBXSAPSI or LBDSAPSI",
+        "Source unit": "U l⁻¹",
+        "Model unit": "U l⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "NHANES (24 measurements)",
+        "UK Biobank feature name": "Urea",
+        "External source variable": "LBXSBU",
+        "Source unit": "mg dl⁻¹",
+        "Model unit": "mmol l⁻¹",
+        "Conversion": "×0.3571"
+      },
+      {
+        "section": "NHANES (24 measurements)",
+        "UK Biobank feature name": "Calcium",
+        "External source variable": "LBXSCA",
+        "Source unit": "mg dl⁻¹",
+        "Model unit": "mmol l⁻¹",
+        "Conversion": "×0.2495"
+      },
+      {
+        "section": "NHANES (24 measurements)",
+        "UK Biobank feature name": "Creatinine",
+        "External source variable": "LBXSCR or LBDSCR calibrated",
+        "Source unit": "mg dl⁻¹",
+        "Model unit": "μmol l⁻¹",
+        "Conversion": "Cycle correction, then ×88.4"
+      },
+      {
+        "section": "NHANES (24 measurements)",
+        "UK Biobank feature name": "Gamma glutamyltransferase",
+        "External source variable": "LBXSGTSI",
+        "Source unit": "U l⁻¹",
+        "Model unit": "U l⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "NHANES (24 measurements)",
+        "UK Biobank feature name": "Total bilirubin",
+        "External source variable": "LBXSTB or LBDSTB",
+        "Source unit": "mg dl⁻¹",
+        "Model unit": "μmol l⁻¹",
+        "Conversion": "×17.104"
+      },
+      {
+        "section": "NHANES (24 measurements)",
+        "UK Biobank feature name": "Total protein",
+        "External source variable": "LBXSTP",
+        "Source unit": "g dl⁻¹",
+        "Model unit": "g l⁻¹",
+        "Conversion": "×10"
+      },
+      {
+        "section": "NHANES (24 measurements)",
+        "UK Biobank feature name": "Urate",
+        "External source variable": "LBXSUA",
+        "Source unit": "mg dl⁻¹",
+        "Model unit": "μmol l⁻¹",
+        "Conversion": "×59.48"
+      },
+      {
+        "section": "NHANES (24 measurements)",
+        "UK Biobank feature name": "White blood cell (leukocyte) count",
+        "External source variable": "LBXWBCSI",
+        "Source unit": "10⁹ l⁻¹",
+        "Model unit": "10⁹ l⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "NHANES (24 measurements)",
+        "UK Biobank feature name": "Lymphocyte percentage",
+        "External source variable": "LBXLYPCT",
+        "Source unit": "%",
+        "Model unit": "%",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "NHANES (24 measurements)",
+        "UK Biobank feature name": "Neutrophill percentage",
+        "External source variable": "LBXNEPCT",
+        "Source unit": "%",
+        "Model unit": "%",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "NHANES (24 measurements)",
+        "UK Biobank feature name": "Monocyte percentage",
+        "External source variable": "LBXMOPCT",
+        "Source unit": "%",
+        "Model unit": "%",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "NHANES (24 measurements)",
+        "UK Biobank feature name": "Haemoglobin concentration",
+        "External source variable": "LBXHGB",
+        "Source unit": "g dl⁻¹",
+        "Model unit": "g dl⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "NHANES (24 measurements)",
+        "UK Biobank feature name": "Mean corpuscular volume",
+        "External source variable": "LBXMCVSI",
+        "Source unit": "fL",
+        "Model unit": "fL",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "NHANES (24 measurements)",
+        "UK Biobank feature name": "Red blood cell (erythrocyte) distribution width",
+        "External source variable": "LBXRDW",
+        "Source unit": "%",
+        "Model unit": "%",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "NHANES (24 measurements)",
+        "UK Biobank feature name": "Red blood cell (erythrocyte) count",
+        "External source variable": "LBXRBCSI",
+        "Source unit": "10¹² l⁻¹",
+        "Model unit": "10¹² l⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "NHANES (24 measurements)",
+        "UK Biobank feature name": "Platelet count",
+        "External source variable": "LBXPLTSI",
+        "Source unit": "10⁹ l⁻¹",
+        "Model unit": "10⁹ l⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "NHANES (24 measurements)",
+        "UK Biobank feature name": "Mean platelet (thrombocyte) volume",
+        "External source variable": "LBXMPSI",
+        "Source unit": "fL",
+        "Model unit": "fL",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "NHANES (24 measurements)",
+        "UK Biobank feature name": "Cholesterol",
+        "External source variable": "LBXTC",
+        "Source unit": "mg dl⁻¹",
+        "Model unit": "mmol l⁻¹",
+        "Conversion": "÷38.67"
+      },
+      {
+        "section": "NHANES (24 measurements)",
+        "UK Biobank feature name": "Glycated haemoglobin (HbA1c)",
+        "External source variable": "LBXGH",
+        "Source unit": "%",
+        "Model unit": "mmol mol⁻¹",
+        "Conversion": "(value − 2.152) ÷ 0.09148"
+      },
+      {
+        "section": "NHANES (24 measurements)",
+        "UK Biobank feature name": "HDL cholesterol",
+        "External source variable": "LBDHDD or LBDHDL or LBXHDD",
+        "Source unit": "mg dl⁻¹",
+        "Model unit": "mmol l⁻¹",
+        "Conversion": "÷38.67"
+      },
+      {
+        "section": "CHARLS (16 measurements)",
+        "UK Biobank feature name": "White blood cell (leukocyte) count",
+        "External source variable": "qc1_vb002",
+        "Source unit": "10⁹ l⁻¹",
+        "Model unit": "10⁹ l⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "CHARLS (16 measurements)",
+        "UK Biobank feature name": "Haemoglobin concentration",
+        "External source variable": "qc1_vb004",
+        "Source unit": "g dl⁻¹",
+        "Model unit": "g dl⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "CHARLS (16 measurements)",
+        "UK Biobank feature name": "Haematocrit percentage",
+        "External source variable": "qc1_vb005",
+        "Source unit": "%",
+        "Model unit": "%",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "CHARLS (16 measurements)",
+        "UK Biobank feature name": "Mean corpuscular volume",
+        "External source variable": "qc1_vb006",
+        "Source unit": "fL",
+        "Model unit": "fL",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "CHARLS (16 measurements)",
+        "UK Biobank feature name": "Platelet count",
+        "External source variable": "qc1_vb009",
+        "Source unit": "10⁹ l⁻¹",
+        "Model unit": "10⁹ l⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "CHARLS (16 measurements)",
+        "UK Biobank feature name": "Urea",
+        "External source variable": "newbun",
+        "Source unit": "mg dl⁻¹",
+        "Model unit": "mmol l⁻¹",
+        "Conversion": "×0.3571"
+      },
+      {
+        "section": "CHARLS (16 measurements)",
+        "UK Biobank feature name": "Glucose",
+        "External source variable": "newglu",
+        "Source unit": "mg dl⁻¹",
+        "Model unit": "mmol l⁻¹",
+        "Conversion": "÷18.018"
+      },
+      {
+        "section": "CHARLS (16 measurements)",
+        "UK Biobank feature name": "Creatinine",
+        "External source variable": "newcrea",
+        "Source unit": "mg dl⁻¹",
+        "Model unit": "μmol l⁻¹",
+        "Conversion": "×88.4"
+      },
+      {
+        "section": "CHARLS (16 measurements)",
+        "UK Biobank feature name": "Cholesterol",
+        "External source variable": "newcho",
+        "Source unit": "mg dl⁻¹",
+        "Model unit": "mmol l⁻¹",
+        "Conversion": "÷38.67"
+      },
+      {
+        "section": "CHARLS (16 measurements)",
+        "UK Biobank feature name": "Triglycerides",
+        "External source variable": "newtg",
+        "Source unit": "mg dl⁻¹",
+        "Model unit": "mmol l⁻¹",
+        "Conversion": "÷88.57"
+      },
+      {
+        "section": "CHARLS (16 measurements)",
+        "UK Biobank feature name": "HDL cholesterol",
+        "External source variable": "newhdl",
+        "Source unit": "mg dl⁻¹",
+        "Model unit": "mmol l⁻¹",
+        "Conversion": "÷38.67"
+      },
+      {
+        "section": "CHARLS (16 measurements)",
+        "UK Biobank feature name": "LDL direct",
+        "External source variable": "newldl",
+        "Source unit": "mg dl⁻¹",
+        "Model unit": "mmol l⁻¹",
+        "Conversion": "÷38.67"
+      },
+      {
+        "section": "CHARLS (16 measurements)",
+        "UK Biobank feature name": "C-reactive protein",
+        "External source variable": "newcrp",
+        "Source unit": "mg l⁻¹",
+        "Model unit": "mg l⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "CHARLS (16 measurements)",
+        "UK Biobank feature name": "Glycated haemoglobin (HbA1c)",
+        "External source variable": "newhba1c",
+        "Source unit": "%",
+        "Model unit": "mmol mol⁻¹",
+        "Conversion": "(value − 2.152) ÷ 0.09148"
+      },
+      {
+        "section": "CHARLS (16 measurements)",
+        "UK Biobank feature name": "Urate",
+        "External source variable": "newua",
+        "Source unit": "mg dl⁻¹",
+        "Model unit": "μmol l⁻¹",
+        "Conversion": "×59.48"
+      },
+      {
+        "section": "CHARLS (16 measurements)",
+        "UK Biobank feature name": "Cystatin C",
+        "External source variable": "cystatinc",
+        "Source unit": "mg l⁻¹",
+        "Model unit": "mg l⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "CHNS (18 measurements)",
+        "UK Biobank feature name": "Urea",
+        "External source variable": "UREA",
+        "Source unit": "mmol l⁻¹",
+        "Model unit": "mmol l⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "CHNS (18 measurements)",
+        "UK Biobank feature name": "Urate",
+        "External source variable": "UA",
+        "Source unit": "μmol l⁻¹",
+        "Model unit": "μmol l⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "CHNS (18 measurements)",
+        "UK Biobank feature name": "Creatinine",
+        "External source variable": "CRE",
+        "Source unit": "μmol l⁻¹",
+        "Model unit": "μmol l⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "CHNS (18 measurements)",
+        "UK Biobank feature name": "Apolipoprotein B",
+        "External source variable": "APO_B",
+        "Source unit": "g l⁻¹",
+        "Model unit": "g l⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "CHNS (18 measurements)",
+        "UK Biobank feature name": "HDL cholesterol",
+        "External source variable": "HDL_C",
+        "Source unit": "mmol l⁻¹",
+        "Model unit": "mmol l⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "CHNS (18 measurements)",
+        "UK Biobank feature name": "LDL direct",
+        "External source variable": "LDL_C",
+        "Source unit": "mmol l⁻¹",
+        "Model unit": "mmol l⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "CHNS (18 measurements)",
+        "UK Biobank feature name": "Cholesterol",
+        "External source variable": "TC",
+        "Source unit": "mmol l⁻¹",
+        "Model unit": "mmol l⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "CHNS (18 measurements)",
+        "UK Biobank feature name": "Triglycerides",
+        "External source variable": "TG",
+        "Source unit": "mmol l⁻¹",
+        "Model unit": "mmol l⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "CHNS (18 measurements)",
+        "UK Biobank feature name": "C-reactive protein",
+        "External source variable": "HS_CRP",
+        "Source unit": "mg l⁻¹",
+        "Model unit": "mg l⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "CHNS (18 measurements)",
+        "UK Biobank feature name": "Glucose",
+        "External source variable": "GLUCOSE",
+        "Source unit": "mmol l⁻¹",
+        "Model unit": "mmol l⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "CHNS (18 measurements)",
+        "UK Biobank feature name": "Glycated haemoglobin (HbA1c)",
+        "External source variable": "HbA1c",
+        "Source unit": "%",
+        "Model unit": "mmol mol⁻¹",
+        "Conversion": "(value − 2.152) ÷ 0.09148"
+      },
+      {
+        "section": "CHNS (18 measurements)",
+        "UK Biobank feature name": "Alanine aminotransferase (ALT)",
+        "External source variable": "ALT",
+        "Source unit": "U l⁻¹",
+        "Model unit": "U l⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "CHNS (18 measurements)",
+        "UK Biobank feature name": "Total protein",
+        "External source variable": "TP",
+        "Source unit": "g l⁻¹",
+        "Model unit": "g l⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "CHNS (18 measurements)",
+        "UK Biobank feature name": "Albumin",
+        "External source variable": "ALB",
+        "Source unit": "g l⁻¹",
+        "Model unit": "g l⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "CHNS (18 measurements)",
+        "UK Biobank feature name": "Haemoglobin concentration",
+        "External source variable": "HGB",
+        "Source unit": "g l⁻¹",
+        "Model unit": "g dl⁻¹",
+        "Conversion": "÷10"
+      },
+      {
+        "section": "CHNS (18 measurements)",
+        "UK Biobank feature name": "White blood cell (leukocyte) count",
+        "External source variable": "WBC",
+        "Source unit": "10⁹ l⁻¹",
+        "Model unit": "10⁹ l⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "CHNS (18 measurements)",
+        "UK Biobank feature name": "Red blood cell (erythrocyte) count",
+        "External source variable": "RBC",
+        "Source unit": "10¹² l⁻¹",
+        "Model unit": "10¹² l⁻¹",
+        "Conversion": "Direct"
+      },
+      {
+        "section": "CHNS (18 measurements)",
+        "UK Biobank feature name": "Platelet count",
+        "External source variable": "PLT",
+        "Source unit": "10⁹ l⁻¹",
+        "Model unit": "10⁹ l⁻¹",
+        "Conversion": "Direct"
+      }
+    ],
+    "notes": "Separate age models were developed in UK Biobank using the 24, 16 and 18 blood measurements available in NHANES, CHARLS and CHNS, respectively, with sex included in each model. The UK Biobank preprocessing, fitted models, sex-specific calibration and healthy-reference standardization were applied to the corresponding external cohort. Participants had fewer than 20% of panel measurements missing; remaining missing values were imputed using medians from the corresponding UK Biobank model-fitting sample. BAG and BAU were derived relative to chronological age and expressed on the UK Biobank healthy-reference scale. Conversions use values in the source units. For NHANES creatinine, values in mg dl⁻¹ were first corrected using 1.013 × value + 0.147 for 1999–2000 and 0.978 × value − 0.016 for 2005–2006, then multiplied by 88.4 to obtain μmol l⁻¹. BAG, biological age gap; BAU, biological age uncertainty; CHARLS, China Health and Retirement Longitudinal Study; CHNS, China Health and Nutrition Survey; NHANES, National Health and Nutrition Examination Survey."
+  },
+  "physiological_traits": {
+    "columns": [
+      "section",
+      "Trait",
+      "Source measure",
+      "Unit",
+      "Derivation",
+      "Analysis transformation"
+    ],
+    "records": [
+      {
+        "section": "Inflammation and immunity",
+        "Trait": "C-reactive protein",
+        "Source measure": "Serum C-reactive protein",
+        "Unit": "mg l⁻¹",
+        "Derivation": "Direct measure",
+        "Analysis transformation": "Natural log"
+      },
+      {
+        "section": "Inflammation and immunity",
+        "Trait": "White blood cell count",
+        "Source measure": "White blood cell count",
+        "Unit": "10⁹ l⁻¹",
+        "Derivation": "Direct measure",
+        "Analysis transformation": "Natural log"
+      },
+      {
+        "section": "Inflammation and immunity",
+        "Trait": "Neutrophil count",
+        "Source measure": "Neutrophil count",
+        "Unit": "10⁹ l⁻¹",
+        "Derivation": "Direct measure",
+        "Analysis transformation": "Natural log"
+      },
+      {
+        "section": "Inflammation and immunity",
+        "Trait": "Monocyte count",
+        "Source measure": "Monocyte count",
+        "Unit": "10⁹ l⁻¹",
+        "Derivation": "Direct measure",
+        "Analysis transformation": "Natural log"
+      },
+      {
+        "section": "Inflammation and immunity",
+        "Trait": "Lymphocyte count",
+        "Source measure": "Lymphocyte count",
+        "Unit": "10⁹ l⁻¹",
+        "Derivation": "Direct measure",
+        "Analysis transformation": "Natural log"
+      },
+      {
+        "section": "Inflammation and immunity",
+        "Trait": "Neutrophil-to-lymphocyte ratio",
+        "Source measure": "Neutrophil and lymphocyte counts",
+        "Unit": "Ratio",
+        "Derivation": "Neutrophil count ÷ lymphocyte count",
+        "Analysis transformation": "Natural log"
+      },
+      {
+        "section": "Haematology and haemostasis",
+        "Trait": "Red cell distribution width",
+        "Source measure": "Red cell distribution width",
+        "Unit": "%",
+        "Derivation": "Direct measure",
+        "Analysis transformation": "Linear scale"
+      },
+      {
+        "section": "Haematology and haemostasis",
+        "Trait": "Haemoglobin",
+        "Source measure": "Haemoglobin concentration",
+        "Unit": "g dl⁻¹",
+        "Derivation": "Direct measure",
+        "Analysis transformation": "Linear scale"
+      },
+      {
+        "section": "Haematology and haemostasis",
+        "Trait": "Platelet count",
+        "Source measure": "Platelet count",
+        "Unit": "10⁹ l⁻¹",
+        "Derivation": "Direct measure",
+        "Analysis transformation": "Linear scale"
+      },
+      {
+        "section": "Haematology and haemostasis",
+        "Trait": "Mean platelet volume",
+        "Source measure": "Mean platelet volume",
+        "Unit": "fL",
+        "Derivation": "Direct measure",
+        "Analysis transformation": "Linear scale"
+      },
+      {
+        "section": "Kidney and liver",
+        "Trait": "Cystatin C",
+        "Source measure": "Serum cystatin C",
+        "Unit": "mg l⁻¹",
+        "Derivation": "Direct measure",
+        "Analysis transformation": "Natural log"
+      },
+      {
+        "section": "Kidney and liver",
+        "Trait": "Urea",
+        "Source measure": "Serum urea",
+        "Unit": "mmol l⁻¹",
+        "Derivation": "Direct measure",
+        "Analysis transformation": "Natural log"
+      },
+      {
+        "section": "Kidney and liver",
+        "Trait": "Urate",
+        "Source measure": "Serum urate",
+        "Unit": "μmol l⁻¹",
+        "Derivation": "Direct measure",
+        "Analysis transformation": "Linear scale"
+      },
+      {
+        "section": "Kidney and liver",
+        "Trait": "Alanine aminotransferase",
+        "Source measure": "Serum alanine aminotransferase",
+        "Unit": "U l⁻¹",
+        "Derivation": "Direct measure",
+        "Analysis transformation": "Natural log"
+      },
+      {
+        "section": "Kidney and liver",
+        "Trait": "Alkaline phosphatase",
+        "Source measure": "Serum alkaline phosphatase",
+        "Unit": "U l⁻¹",
+        "Derivation": "Direct measure",
+        "Analysis transformation": "Natural log"
+      },
+      {
+        "section": "Kidney and liver",
+        "Trait": "Gamma-glutamyltransferase",
+        "Source measure": "Serum gamma-glutamyltransferase",
+        "Unit": "U l⁻¹",
+        "Derivation": "Direct measure",
+        "Analysis transformation": "Natural log"
+      },
+      {
+        "section": "Metabolic and endocrine",
+        "Trait": "Glycated haemoglobin",
+        "Source measure": "Glycated haemoglobin",
+        "Unit": "mmol mol⁻¹",
+        "Derivation": "Direct measure",
+        "Analysis transformation": "Natural log"
+      },
+      {
+        "section": "Metabolic and endocrine",
+        "Trait": "IGF-1",
+        "Source measure": "Serum insulin-like growth factor 1",
+        "Unit": "nmol l⁻¹",
+        "Derivation": "Direct measure",
+        "Analysis transformation": "Linear scale"
+      },
+      {
+        "section": "Metabolic and endocrine",
+        "Trait": "Sex hormone-binding globulin",
+        "Source measure": "Serum sex hormone-binding globulin",
+        "Unit": "nmol l⁻¹",
+        "Derivation": "Direct measure",
+        "Analysis transformation": "Natural log"
+      },
+      {
+        "section": "Metabolic and endocrine",
+        "Trait": "Vitamin D",
+        "Source measure": "Serum 25-hydroxyvitamin D",
+        "Unit": "nmol l⁻¹",
+        "Derivation": "Direct measure",
+        "Analysis transformation": "Linear scale"
+      },
+      {
+        "section": "Body composition and vascular",
+        "Trait": "Body mass index",
+        "Source measure": "Measured weight and height",
+        "Unit": "kg m⁻²",
+        "Derivation": "Weight ÷ height²",
+        "Analysis transformation": "Linear scale"
+      },
+      {
+        "section": "Body composition and vascular",
+        "Trait": "Waist-to-hip ratio",
+        "Source measure": "Waist and hip circumference",
+        "Unit": "Ratio",
+        "Derivation": "Waist ÷ hip circumference",
+        "Analysis transformation": "Linear scale"
+      },
+      {
+        "section": "Body composition and vascular",
+        "Trait": "Systolic blood pressure",
+        "Source measure": "Automated systolic blood pressure",
+        "Unit": "mm Hg",
+        "Derivation": "Direct measure",
+        "Analysis transformation": "Linear scale"
+      },
+      {
+        "section": "Body composition and vascular",
+        "Trait": "Diastolic blood pressure",
+        "Source measure": "Automated diastolic blood pressure",
+        "Unit": "mm Hg",
+        "Derivation": "Direct measure",
+        "Analysis transformation": "Linear scale"
+      },
+      {
+        "section": "Body composition and vascular",
+        "Trait": "Resting pulse rate",
+        "Source measure": "Automated resting pulse rate",
+        "Unit": "beats min⁻¹",
+        "Derivation": "Direct measure",
+        "Analysis transformation": "Linear scale"
+      },
+      {
+        "section": "Physical function",
+        "Trait": "Handgrip strength",
+        "Source measure": "Left- and right-hand grip strength",
+        "Unit": "kg",
+        "Derivation": "Mean of available sides",
+        "Analysis transformation": "Linear scale"
+      },
+      {
+        "section": "Physical function",
+        "Trait": "Forced expiratory volume (FEV1)",
+        "Source measure": "Three spirometry blows",
+        "Unit": "l",
+        "Derivation": "Maximum measured FEV1",
+        "Analysis transformation": "Linear scale"
+      },
+      {
+        "section": "Physical function",
+        "Trait": "Bone mineral density",
+        "Source measure": "Heel quantitative ultrasound estimate",
+        "Unit": "g cm⁻²",
+        "Derivation": "Processed mean heel BMD",
+        "Analysis transformation": "Linear scale"
+      }
+    ],
+    "notes": "In the discovery sample, each trait was winsorized at the 0.5th and 99.5th percentiles, transformed as indicated in the table and standardized using the mean and s.d. among healthy participants. The same winsorization thresholds, transformations and standardization parameters were applied to the validation sample from held-out assessment centres. Each trait was analysed among participants with an available measurement. BMD, bone mineral density; FEV1, forced expiratory volume in 1 s."
+  }
+}

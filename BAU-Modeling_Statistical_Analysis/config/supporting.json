@@ -1,0 +1,13 @@
+{
+  "expected_participants": 502235,
+  "sources": {
+    "population": "ProcessedData/01-PopulationCharacteristics/basic_population_info_0.csv",
+    "covariates": "ResearchData/Aging_Indicator/Cov/panel_indicators.rds",
+    "outcomes_primary": "ResearchData/Aging_Indicator/Cov/all_outcomes_important_merge.feather",
+    "disease_history": "ResearchData/Aging_Indicator/dat_ukb_aging_indicator_medhis_0.feather"
+  },
+  "h7_files": {
+    "events": "ukb_h7_h7mm_time_to_event.feather",
+    "baseline": "ukb_h7_baseline_state.feather"
+  }
+}

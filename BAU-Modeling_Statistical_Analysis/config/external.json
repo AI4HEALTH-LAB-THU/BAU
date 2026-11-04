@@ -1,0 +1,321 @@
+{
+  "seed": 20260717,
+  "analysis_age": [
+    40,
+    70
+  ],
+  "calibration_fraction": 0.2,
+  "n_trials": 15,
+  "tuning_folds": 5,
+  "tuning_rows": 40000,
+  "cohorts": {
+    "nhanes": {
+      "seed": 20260717,
+      "expected_predictions": 24225,
+      "features": [
+        {
+          "source_field": "albumin_g_dl",
+          "ukb_feature": "Albumin",
+          "transform": "x_times_10"
+        },
+        {
+          "source_field": "alt_u_l",
+          "ukb_feature": "Alanine aminotransferase (ALT)",
+          "transform": "identity"
+        },
+        {
+          "source_field": "ast_u_l",
+          "ukb_feature": "Aspartate aminotransferase (AST)",
+          "transform": "identity"
+        },
+        {
+          "source_field": "alp_u_l",
+          "ukb_feature": "Alkaline phosphatase",
+          "transform": "identity"
+        },
+        {
+          "source_field": "bun_mg_dl",
+          "ukb_feature": "Urea",
+          "transform": "bun_to_urea"
+        },
+        {
+          "source_field": "calcium_mg_dl",
+          "ukb_feature": "Calcium",
+          "transform": "calcium_mgdl_to_mmoll"
+        },
+        {
+          "source_field": "creatinine_calibrated_mg_dl",
+          "ukb_feature": "Creatinine",
+          "transform": "creatinine_mgdl_to_umoll"
+        },
+        {
+          "source_field": "ggt_u_l",
+          "ukb_feature": "Gamma glutamyltransferase",
+          "transform": "identity"
+        },
+        {
+          "source_field": "bilirubin_mg_dl",
+          "ukb_feature": "Total bilirubin",
+          "transform": "bilirubin_mgdl_to_umoll"
+        },
+        {
+          "source_field": "total_protein_g_dl",
+          "ukb_feature": "Total protein",
+          "transform": "x_times_10"
+        },
+        {
+          "source_field": "urate_mg_dl",
+          "ukb_feature": "Urate",
+          "transform": "urate_mgdl_to_umoll"
+        },
+        {
+          "source_field": "wbc_10e9_l",
+          "ukb_feature": "White blood cell (leukocyte) count",
+          "transform": "identity"
+        },
+        {
+          "source_field": "lymphocyte_pct",
+          "ukb_feature": "Lymphocyte percentage",
+          "transform": "identity"
+        },
+        {
+          "source_field": "neutrophil_pct",
+          "ukb_feature": "Neutrophill percentage",
+          "transform": "identity"
+        },
+        {
+          "source_field": "monocyte_pct",
+          "ukb_feature": "Monocyte percentage",
+          "transform": "identity"
+        },
+        {
+          "source_field": "hemoglobin_g_dl",
+          "ukb_feature": "Haemoglobin concentration",
+          "transform": "identity"
+        },
+        {
+          "source_field": "mcv_fl",
+          "ukb_feature": "Mean corpuscular volume",
+          "transform": "identity"
+        },
+        {
+          "source_field": "rdw_pct",
+          "ukb_feature": "Red blood cell (erythrocyte) distribution width",
+          "transform": "identity"
+        },
+        {
+          "source_field": "rbc_10e12_l",
+          "ukb_feature": "Red blood cell (erythrocyte) count",
+          "transform": "identity"
+        },
+        {
+          "source_field": "platelet_10e9_l",
+          "ukb_feature": "Platelet count",
+          "transform": "identity"
+        },
+        {
+          "source_field": "mpv_fl",
+          "ukb_feature": "Mean platelet (thrombocyte) volume",
+          "transform": "identity"
+        },
+        {
+          "source_field": "cholesterol_mg_dl",
+          "ukb_feature": "Cholesterol",
+          "transform": "cholesterol_mgdl_to_mmoll"
+        },
+        {
+          "source_field": "hba1c_ngsp_pct",
+          "ukb_feature": "Glycated haemoglobin (HbA1c)",
+          "transform": "hba1c_ngsp_to_ifcc"
+        },
+        {
+          "source_field": "hdl_mg_dl",
+          "ukb_feature": "HDL cholesterol",
+          "transform": "cholesterol_mgdl_to_mmoll"
+        }
+      ]
+    },
+    "charls": {
+      "seed": 20260718,
+      "expected_predictions": 9745,
+      "features": [
+        {
+          "source_field": "wbc_10e9_l",
+          "ukb_feature": "White blood cell (leukocyte) count",
+          "transform": "identity"
+        },
+        {
+          "source_field": "hemoglobin_g_dl",
+          "ukb_feature": "Haemoglobin concentration",
+          "transform": "identity"
+        },
+        {
+          "source_field": "hematocrit_pct",
+          "ukb_feature": "Haematocrit percentage",
+          "transform": "identity"
+        },
+        {
+          "source_field": "mcv_fl",
+          "ukb_feature": "Mean corpuscular volume",
+          "transform": "identity"
+        },
+        {
+          "source_field": "platelet_10e9_l",
+          "ukb_feature": "Platelet count",
+          "transform": "identity"
+        },
+        {
+          "source_field": "bun_mg_dl",
+          "ukb_feature": "Urea",
+          "transform": "bun_to_urea"
+        },
+        {
+          "source_field": "glucose_mg_dl",
+          "ukb_feature": "Glucose",
+          "transform": "glucose_mgdl_to_mmoll"
+        },
+        {
+          "source_field": "creatinine_mg_dl",
+          "ukb_feature": "Creatinine",
+          "transform": "creatinine_mgdl_to_umoll"
+        },
+        {
+          "source_field": "cholesterol_mg_dl",
+          "ukb_feature": "Cholesterol",
+          "transform": "cholesterol_mgdl_to_mmoll"
+        },
+        {
+          "source_field": "triglycerides_mg_dl",
+          "ukb_feature": "Triglycerides",
+          "transform": "triglycerides_mgdl_to_mmoll"
+        },
+        {
+          "source_field": "hdl_mg_dl",
+          "ukb_feature": "HDL cholesterol",
+          "transform": "cholesterol_mgdl_to_mmoll"
+        },
+        {
+          "source_field": "ldl_mg_dl",
+          "ukb_feature": "LDL direct",
+          "transform": "cholesterol_mgdl_to_mmoll"
+        },
+        {
+          "source_field": "crp_mg_l",
+          "ukb_feature": "C-reactive protein",
+          "transform": "identity"
+        },
+        {
+          "source_field": "hba1c_ngsp_pct",
+          "ukb_feature": "Glycated haemoglobin (HbA1c)",
+          "transform": "hba1c_ngsp_to_ifcc"
+        },
+        {
+          "source_field": "urate_mg_dl",
+          "ukb_feature": "Urate",
+          "transform": "urate_mgdl_to_umoll"
+        },
+        {
+          "source_field": "cystatin_c_mg_l",
+          "ukb_feature": "Cystatin C",
+          "transform": "identity"
+        }
+      ]
+    },
+    "chns": {
+      "seed": 20262717,
+      "expected_predictions": 5613,
+      "features": [
+        {
+          "source_field": "urea_mmol_l",
+          "ukb_feature": "Urea",
+          "transform": "identity"
+        },
+        {
+          "source_field": "urate_umol_l",
+          "ukb_feature": "Urate",
+          "transform": "identity"
+        },
+        {
+          "source_field": "creatinine_umol_l",
+          "ukb_feature": "Creatinine",
+          "transform": "identity"
+        },
+        {
+          "source_field": "apob_g_l",
+          "ukb_feature": "Apolipoprotein B",
+          "transform": "identity"
+        },
+        {
+          "source_field": "hdl_mmol_l",
+          "ukb_feature": "HDL cholesterol",
+          "transform": "identity"
+        },
+        {
+          "source_field": "ldl_mmol_l",
+          "ukb_feature": "LDL direct",
+          "transform": "identity"
+        },
+        {
+          "source_field": "cholesterol_mmol_l",
+          "ukb_feature": "Cholesterol",
+          "transform": "identity"
+        },
+        {
+          "source_field": "triglycerides_mmol_l",
+          "ukb_feature": "Triglycerides",
+          "transform": "identity"
+        },
+        {
+          "source_field": "crp_mg_l",
+          "ukb_feature": "C-reactive protein",
+          "transform": "identity"
+        },
+        {
+          "source_field": "glucose_mmol_l",
+          "ukb_feature": "Glucose",
+          "transform": "identity"
+        },
+        {
+          "source_field": "hba1c_ngsp_pct",
+          "ukb_feature": "Glycated haemoglobin (HbA1c)",
+          "transform": "hba1c_ngsp_to_ifcc"
+        },
+        {
+          "source_field": "alt_u_l",
+          "ukb_feature": "Alanine aminotransferase (ALT)",
+          "transform": "identity"
+        },
+        {
+          "source_field": "total_protein_g_l",
+          "ukb_feature": "Total protein",
+          "transform": "identity"
+        },
+        {
+          "source_field": "albumin_g_l",
+          "ukb_feature": "Albumin",
+          "transform": "identity"
+        },
+        {
+          "source_field": "hemoglobin_g_l",
+          "ukb_feature": "Haemoglobin concentration",
+          "transform": "x_div_10"
+        },
+        {
+          "source_field": "wbc_10e9_l",
+          "ukb_feature": "White blood cell (leukocyte) count",
+          "transform": "identity"
+        },
+        {
+          "source_field": "rbc_10e12_l",
+          "ukb_feature": "Red blood cell (erythrocyte) count",
+          "transform": "identity"
+        },
+        {
+          "source_field": "platelet_10e9_l",
+          "ukb_feature": "Platelet count",
+          "transform": "identity"
+        }
+      ]
+    }
+  }
+}

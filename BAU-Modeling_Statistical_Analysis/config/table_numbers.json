@@ -1,0 +1,15 @@
+{
+  "Table S26": "age_model_features.tsv",
+  "Table S27": "organ_clock_features.tsv",
+  "Table S28": "ukb_baseline.tsv",
+  "Table S29": "phenotype_baseline.tsv",
+  "Table S30": "external_baseline.tsv",
+  "Table S31": "analysis_populations.tsv",
+  "Table S32": "healthy_reference_conditions.tsv",
+  "Table S33": "covariate_definitions.tsv",
+  "Table S34": "additional_covariates.tsv",
+  "Table S35": "health_outcomes.tsv",
+  "Table S36": "external_feature_harmonisation.tsv",
+  "Table S37": "mortality_timing.tsv",
+  "Table S38": "physiological_traits.tsv"
+}

@@ -1,0 +1,59 @@
+White blood cell (leukocyte) count
+Red blood cell (erythrocyte) count
+Haemoglobin concentration
+Haematocrit percentage
+Mean corpuscular volume
+Mean corpuscular haemoglobin
+Mean corpuscular haemoglobin concentration
+Red blood cell (erythrocyte) distribution width
+Platelet count
+Platelet crit
+Mean platelet (thrombocyte) volume
+Platelet distribution width
+Lymphocyte count
+Monocyte count
+Neutrophill count
+Eosinophill count
+Basophill count
+Nucleated red blood cell count
+Lymphocyte percentage
+Monocyte percentage
+Neutrophill percentage
+Eosinophill percentage
+Basophill percentage
+Nucleated red blood cell percentage
+Reticulocyte percentage
+Reticulocyte count
+Mean reticulocyte volume
+Mean sphered cell volume
+Immature reticulocyte fraction
+High light scatter reticulocyte percentage
+High light scatter reticulocyte count
+Albumin
+Alkaline phosphatase
+Alanine aminotransferase (ALT)
+Apolipoprotein A
+Apolipoprotein B
+Aspartate aminotransferase (AST)
+Direct bilirubin
+Urea
+Calcium
+Cholesterol
+Creatinine
+C-reactive protein
+Cystatin C
+Gamma glutamyltransferase
+Glucose
+Glycated haemoglobin (HbA1c)
+HDL cholesterol
+IGF-1
+LDL direct
+Lipoprotein A
+Phosphate
+SHBG
+Total bilirubin
+Testosterone
+Total protein
+Triglycerides
+Urate
+Vitamin D

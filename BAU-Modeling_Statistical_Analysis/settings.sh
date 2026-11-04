@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+
+export UKB_DATA_ROOT="${UKB_DATA_ROOT:-/mnt/project/UKB}"
+export EXTERNAL_DATA_ROOT="${EXTERNAL_DATA_ROOT:-/mnt/project/external-cohorts}"
+export UKB_H7_ROOT="${UKB_H7_ROOT:-$UKB_DATA_ROOT/Derived/Composite_Outcomes_H7_H7MM}"
+export DOMAIN_REFERENCE_ROOT="${DOMAIN_REFERENCE_ROOT:-$UKB_DATA_ROOT/Derived/DomainClockReference}"
+export GENE_SET_ROOT="${GENE_SET_ROOT:-/mnt/project/references/MSigDB_2026.1.Hs}"
+export BAU_DATA_ROOT="${BAU_DATA_ROOT:-/home/dnanexus/bau-work/data}"
+export BAU_RESULTS_ROOT="${BAU_RESULTS_ROOT:-/home/dnanexus/bau-work/results}"
+export BAU_R_LIBRARY="${BAU_R_LIBRARY:-/home/dnanexus/bau-work/r-library}"
+export BAU_PYTHON="${BAU_PYTHON:-python3.10}"
+export BAU_THREADS="${BAU_THREADS:-16}"
+export BAU_USE_FROZEN_PARAMETERS="${BAU_USE_FROZEN_PARAMETERS:-1}"
+export R_LIBS="$BAU_R_LIBRARY${R_LIBS:+:$R_LIBS}"
+export OMP_NUM_THREADS="${OMP_NUM_THREADS:-1}"
+export OPENBLAS_NUM_THREADS="${OPENBLAS_NUM_THREADS:-1}"
+export MKL_NUM_THREADS="${MKL_NUM_THREADS:-1}"
